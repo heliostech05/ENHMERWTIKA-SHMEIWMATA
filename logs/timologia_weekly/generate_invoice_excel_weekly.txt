@@ -984,3 +984,83 @@ Template already has a logo; skipping extra logo.
 XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W01.xlsx
 Template already has a logo; skipping extra logo.
 XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Merge/format D6 warn: Unknown property, element or command: 'Merge'
+XLSX OK (via Excel): /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Merge/format D6 warn: Unknown property, element or command: 'Merge'
+XLSX OK (via Excel): /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W49.xlsx
+Merge/format D6 warn: Unknown property, element or command: 'Merge'
+XLSX OK (via Excel): /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Merge/format D6 warn: Unknown property, element or command: 'Merge'
+XLSX OK (via Excel): /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+ERROR local variable 'pd' referenced before assignment
+Template already has a logo; skipping extra logo.
+ERROR local variable 'pd' referenced before assignment
+Template already has a logo; skipping extra logo.
+ERROR local variable 'pd' referenced before assignment
+Template already has a logo; skipping extra logo.
+ERROR local variable 'pd' referenced before assignment
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.xlsx

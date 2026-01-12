@@ -57,7 +57,11 @@ BASE_DIR = Path(__file__).resolve().parent
 
 TEMPLATE_FILE   = BASE_DIR / "WEEKLY_Invoice_GREEN_VALUE_01.xlsx"
 PRODUCERS_XLSX  = BASE_DIR / "producers.xlsx"
-DAM_FILE_2025   = BASE_DIR / "energy-charts_Electricity_production_and_spot_prices_in_Greece_in_2026.csv"
+
+DAM_FILE_2025   = BASE_DIR / "energy-charts_Electricity_production_and_spot_prices_in_Greece_in_{year}.csv"
+
+def dam_file_for_year(year: int) -> Path:
+    return BASE_DIR / DAM_FILE_2025.name.format(year=int(year))
 
 PROD_DIR        = BASE_DIR / "ΠΑΡΑΓΩΓΗ"
 DOWNLOADS_DIR   = BASE_DIR / "downloads"   # downloads/<YYYY-MM>/GREEN_VE6*.csv
@@ -160,7 +164,7 @@ def load_producers_sithya(filepath=PRODUCERS_XLSX):
             raise ValueError(f"Λείπουν στήλες: {missing}")
 
         tech = df['Τεχνολογία'].astype(str).str.strip().str.upper()
-        aliases = {"ΣΗΘΥΑ","ΣΗΘ","ΣΗΘΥΑ/ΣΗΘ","ΣΗΘΥΑ - CHP","CHP","ΣΗΘ-YA"}
+        aliases = {"ΣΗΘΥΑ","ΣΗΘ","ΣΗΘΥΑ/ΣΗΘ","ΣΗΘΥΑ - CHP","CHP","ΣΗΘ-YA","ΒΙΟΑΕΡΙΟ"}
         mask = tech.isin(aliases) | tech.str.contains(r"\bΣΗΘΥΑ\b", regex=True)
         df = df[mask].copy()
 
@@ -877,10 +881,10 @@ def generate_invoice_excel_weekly(df_daily, summary, producer_row, start_date, e
             "Ενημερωτικό Σημείωμα Εβδομάδας\n"
             f"{start_date.strftime('%d/%m/%y')} – {end_date.strftime('%d/%m/%y')}"
         )
-        ws["D1"].font = Font(bold=True, size=11)
+        ws["D1"].font = Font(bold=True, size=14)
         ws["D1"].alignment = Alignment(
             horizontal="center",
-            vertical="center",
+            vertical="bottom",
             wrap_text=True
         )
 
@@ -894,30 +898,12 @@ def generate_invoice_excel_weekly(df_daily, summary, producer_row, start_date, e
             'ΔΟΥ:ΦΑΕ Αθηνών\n' \
             'Email: info@greenvalue.gr'
         )
-        ws["G1"].font = Font(bold=True, size=10)
+        ws["G1"].font = Font(bold=False, size=10)
         ws["G1"].alignment = Alignment(
             horizontal="right",
             vertical="center",
             wrap_text=True
         )
-        # set_cell_value(
-        #     ws, "G1",
-        #     'Φορέας Σωρευτικής Εκπροσώπησης ΑΠΕ (Φο.Σ.Ε.)\n'
-        #     'Διεύθυνση: Φιλοπάππου 19, Αθήνα 11741, Ελλάδα\n'
-        #     'ΑΦΜ: 801961185\n'
-        #     'ΓΕΜΗ: 167104201000\n' \
-        #     'ΔΟΥ:ΦΑΕ Αθηνών\n' \
-        #     'Email: info@greenvalue.gr'
-        # )
-        # set_cell_property(ws, "G1", "font", Font(size=10))
-        # set_cell_property(
-        #     ws, "G1", "alignment",
-        #     Alignment(
-        #         wrap_text=True,
-        #         horizontal="right",
-        #         vertical="center"
-        #     )
-        # )
 
         needed = ['Α.Μ. ΑΠΕ','Εταιρεία','ΑΦΜ','ΔΟΥ','Διεύθυνση','Email','Τεχνολογία']
         vals   = producer_row.iloc[0][needed].tolist()
@@ -938,14 +924,6 @@ def generate_invoice_excel_weekly(df_daily, summary, producer_row, start_date, e
             vertical="center",
             wrap_text=True
         )
-        # set_cell_value(
-        #     ws, "D6:F6",
-        #     f"{start_date.strftime('%d/%m/%y')}-{end_date.strftime('%d/%m/%y')}"
-        # )
-        # set_cell_property(
-        #     ws, "D6:F6", "alignment",
-        #     Alignment(horizontal="center", vertical="center", wrap_text=True)
-        # )
 
         # Unmerge ALL merged cells in the data area (C10:G41) to avoid MergedCell errors
         for rg in list(ws.merged_cells.ranges):
@@ -983,9 +961,9 @@ def generate_invoice_excel_weekly(df_daily, summary, producer_row, start_date, e
             cell_coord = f"{chr(64 + col)}{total_row}"
             set_cell_property(ws, cell_coord, 'font', Font(bold=True, size=15))
 
+        ws["C17"].font = Font(bold=True, size=13)
+
         _safe_merge(ws, "C28:D28")
-        # set_cell_value(ws, 'C28', iban)
-        # set_cell_property(ws, 'C28', 'font', Font(size=14, bold=True))
 
         ws["C28"].value = iban
         ws["C28"].font = Font(bold=True, size=14)
@@ -996,9 +974,15 @@ def generate_invoice_excel_weekly(df_daily, summary, producer_row, start_date, e
         )
 
         
-
         _safe_merge(ws, "C29:D29")
-        set_cell_value(ws, 'C29', (pd.Timestamp.today() + pd.Timedelta(days=5)).strftime('%d/%m/%y'))
+
+        ws["C29"].value = (pd.Timestamp.today() + pd.Timedelta(days=5)).strftime('%d/%m/%y')
+        ws["C28"].font = Font(bold=True, size=14)
+        ws["C28"].alignment = Alignment(
+            horizontal="center",
+            vertical="center",
+            wrap_text=True
+        )
         set_cell_value(ws, 'D21', rate)
         set_cell_value(ws, 'D22', round(sum_prov, 2))
         set_cell_property(ws, 'D43', 'number_format', '#,##0.00')
@@ -1020,79 +1004,63 @@ def generate_invoice_excel_weekly(df_daily, summary, producer_row, start_date, e
         return None, None, None
 
 
-
-
-# def _find_soffice_path() -> str | None:
-#     p = shutil.which("soffice")
-#     if p:
-#         return p
-#     default = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
-#     if os.path.exists(default):
-#         return default
-#     return None
-
 def export_to_pdf_with_excel(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
     fn = "export_to_pdf_excel_weekly"
     if not _HAS_XLWINGS:
         log(fn, "xlwings not available; skip Excel export.")
         return False, "excel-not-available"
+
     import xlwings as xw  # type: ignore
     app = xw.App(visible=False, add_book=False)
+
     try:
         wb = app.books.open(os.path.abspath(xlsx_path))
-        try:
-            sht = wb.sheets.active
-            sht.api.PageSetup.Zoom         = False
-            sht.api.PageSetup.FitToPagesWide  = 1
-            sht.api.PageSetup.FitToPagesTall  = False
+        sht = wb.sheets.active
+        try: 
+            # === Force 1 page PDF ===
+            ps = sht.api.PageSetup
+            ps.Zoom = False
+            ps.FitToPagesWide = 1
+            ps.FitToPagesTall = 1  # ✅ critical: 1 page tall
+
+            # Προαιρετικά (αλλά συνήθως βοηθάνε πολύ)
+            ps.Orientation = 2  # 2 = Landscape
+            ps.CenterHorizontally = True
+            ps.CenterVertically = True
+
+            # Print area = ό,τι έχει πραγματικά δεδομένα
+            used_addr = sht.used_range.api.Address
+            ps.PrintArea = used_addr
+
         except Exception as e:
             log(fn, f"PageSetup warn: {e}")
 
         out_pdf = os.path.abspath(pdf_path)
         Path(os.path.dirname(out_pdf)).mkdir(parents=True, exist_ok=True)
 
-        # 1) Try ExportAsFixedFormat (Windows-style COM API)
-        # export_failed = False
-        # try:
-        #     wb.api.ExportAsFixedFormat(0, out_pdf)
-        # except Exception as e_api:
-        #     log(fn, f"ExportAsFixedFormat failed: {e_api}; trying fallback...")
-        #     export_failed = True
-
-        # 2) If ExportAsFixedFormat failed, try xlwings wb.to_pdf (if available)
+        export_failed = True
         try:
-                if hasattr(wb, "to_pdf"):
-                    wb.to_pdf(out_pdf)
-                    export_failed = False
-                else:
-                    raise AttributeError("wb.to_pdf not available")
+            if hasattr(wb, "to_pdf"):
+                wb.to_pdf(out_pdf)
+                export_failed = False
+            else:
+                raise AttributeError("wb.to_pdf not available")
         except Exception as e_to_pdf:
-                log(fn, f"wb.to_pdf failed: {e_to_pdf}; trying AppleScript fallback...")
+            log(fn, f"wb.to_pdf failed: {e_to_pdf}; trying sheet.ExportAsFixedFormat...")
 
-                # 3) AppleScript fallback: ask Microsoft Excel (Mac) to save as PDF
-                # try:
-                #     applescript = (
-                #         'tell application "Microsoft Excel"\n'
-                #         f'    open POSIX file "{os.path.abspath(xlsx_path)}"\n'
-                #         '    delay 0.5\n'
-                #         '    tell workbook 1\n'
-                #         f'        save workbook as filename POSIX file "{out_pdf}" file format PDF file format\n'
-                #         '        close saving no\n'
-                #         '    end tell\n'
-                #         'end tell'
-                #     )
-                #     res = subprocess.run(["osascript", "-e", applescript], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=60)
-                #     if res.returncode == 0:
-                #         export_failed = False
-                #         log(fn, "AppleScript export succeeded")
-                #     else:
-                #         log(fn, f"AppleScript failed rc={res.returncode}\nstdout:{res.stdout}\nstderr:{res.stderr}")
-                # except Exception as e_apple:
-                #     log(fn, f"AppleScript fallback failed: {e_apple}")
+            # Fallback: Export από το sheet (πιο “σίγουρο” για page setup)
+            try:
+                sht.api.ExportAsFixedFormat(
+                    Type=0,            # 0 = PDF
+                    Filename=out_pdf
+                )
+                export_failed = False
+            except Exception as e_export:
+                log(fn, f"ExportAsFixedFormat failed: {e_export}")
 
         wb.close()
 
-        ok = os.path.exists(out_pdf) and os.path.getsize(out_pdf) >= 500
+        ok = (not export_failed) and os.path.exists(out_pdf) and os.path.getsize(out_pdf) >= 500
         if ok:
             log(fn, f"OK via Excel -> {out_pdf}")
             print(f"✅ PDF (Excel) → {out_pdf}")
@@ -1101,178 +1069,23 @@ def export_to_pdf_with_excel(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
             log(fn, f"Excel produced no/empty file at: {out_pdf}")
             print(f"⚠️ Empty PDF from Excel → {out_pdf}")
             return False, "excel-empty"
+
     except Exception as e:
         log(fn, f"ERROR (Excel): {e}")
         print(f"❌ PDF export (Excel) failed: {e}")
         return False, f"excel-error:{e}"
+
     finally:
         try:
             app.quit()
         except Exception:
             pass
 
-# def export_to_pdf_with_libreoffice(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
-#     fn = "export_to_pdf_libreoffice_weekly"
-#     soffice = _find_soffice_path()
-#     if not soffice:
-#         log(fn, "LibreOffice 'soffice' not found.")
-#         return False, "lo-missing"
-
-#     outdir = os.path.abspath(os.path.dirname(pdf_path))
-#     Path(outdir).mkdir(parents=True, exist_ok=True)
-
-#     cmd = [
-#         soffice,
-#         "--headless","--norestore","--nolockcheck",
-#         "--convert-to","pdf",
-#         "--outdir", outdir,
-#         os.path.abspath(xlsx_path)
-#     ]
-
-#     try:
-#         res = subprocess.run(
-#             cmd,
-#             stdout=subprocess.PIPE,
-#             stderr=subprocess.PIPE,
-#             text=True,
-#             timeout=180
-#         )
-#         if res.returncode != 0:
-#             log(fn, f"ERROR rc={res.returncode}\nstdout:\n{res.stdout}\nstderr:\n{res.stderr}")
-#             print(f"❌ PDF export (LibreOffice) failed rc={res.returncode}")
-#             return False, f"lo-error-rc{res.returncode}"
-
-#         produced = os.path.join(outdir, os.path.splitext(os.path.basename(xlsx_path))[0] + ".pdf")
-#         if os.path.abspath(produced) != os.path.abspath(pdf_path):
-#             try:
-#                 if os.path.exists(pdf_path):
-#                     os.remove(pdf_path)
-#                 os.replace(produced, pdf_path)
-#             except Exception as e:
-#                 log(fn, f"Rename error: {e}")
-#                 return False, f"lo-rename-error:{e}"
-
-#         time.sleep(0.2)
-#         ok = os.path.exists(pdf_path) and os.path.getsize(pdf_path) >= 500
-#         if ok:
-#             log(fn, f"OK via LibreOffice -> {pdf_path}")
-#             print(f"✅ PDF (LibreOffice) → {pdf_path}")
-#             return True, "libreoffice"
-#         else:
-#             log(fn, f"LibreOffice produced no/empty file at: {pdf_path}")
-#             print(f"⚠️ Empty PDF from LibreOffice → {pdf_path}")
-#             return False, "lo-empty"
-
-#     except Exception as e:
-#         log(fn, f"ERROR (LibreOffice): {e}")
-#         print(f"❌ PDF export (LibreOffice) exception: {e}")
-#         return False, f"lo-exception:{e}"
 
 def export_to_pdf(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
     ok, how = export_to_pdf_with_excel(xlsx_path, pdf_path)
     if ok:
         return True, how
-
-
-# =================== Main weekly job ===================
-
-# def timologia_weekly(start_date_str: str, end_date_str: str):
-#     # Parse dates
-#     try:
-#         start_date = pd.to_datetime(start_date_str).floor('D')
-#         end_date   = pd.to_datetime(end_date_str).floor('D')
-#     except Exception:
-#         print("Μη έγκυρες ημερομηνίες. Χρήση: YYYY-MM-DD")
-#         return
-#     if end_date < start_date:
-#         print("Το τέλος είναι πριν την αρχή.")
-#         return
-
-#     if start_date.year != end_date.year or start_date.month != end_date.month:
-#         print("Προς το παρόν η εβδομάδα πρέπει να είναι μέσα στον ίδιο μήνα.")
-#         print("Χώρισέ την σε δύο κλήσεις (μία για κάθε μήνα).")
-#         return
-
-#     month_str = start_date.strftime('%Y-%m')
-
-#     # 1) Χτίζουμε/ενημερώνουμε ΠΑΡΑΓΩΓΗ από GREEN_VE6
-#     # ensure_production_files(start_date, end_date)
-
-#     # 2) Φάκελοι εξόδου
-#     tag, root, xlsx_dir, pdf_dir = make_week_dirs(start_date, end_date)
-
-#     # 3) Producers (ΣΗΘΥΑ μόνο)
-#     producers_df = load_producers_sithya(PRODUCERS_XLSX)
-#     print(producers_df)
-#     if producers_df is None or producers_df.empty:
-#         print("Δεν βρέθηκαν παραγωγοί ΣΗΘΥΑ.")
-#         return
-#     email_to_companies, _ = build_email_groups(producers_df)
-
-#     # 4) DAM 15' για τον μήνα (START, 2025-10-01+)
-#     if not DAM_FILE_2025.exists():
-#         print(f"Λείπει DAM CSV: {DAM_FILE_2025.name}")
-#         return
-#     df_dam_month = load_dam_quarterly_endtime(str(DAM_FILE_2025), month_str)
-#     if df_dam_month is None or df_dam_month.empty:
-#         print("Αποτυχία: DAM 15' prices (empty).")
-#         return
-
-#     # 5) ΠΑΡΑΓΩΓΗ_*.csv
-#     if not PROD_DIR.is_dir():
-#         print(f"Λείπει φάκελος: {PROD_DIR} (και δεν μπόρεσα να τον φτιάξω από downloads)")
-#         return
-
-#     for filename in os.listdir(PROD_DIR):
-#         if not (filename.startswith('ΠΑΡΑΓΩΓΗ_') and filename.endswith('.csv')):
-#             continue
-
-#         file_path = PROD_DIR / filename
-#         m = re.match(r'ΠΑΡΑΓΩΓΗ_(.+)\.csv', filename)
-#         if not m:
-#             log("timologia_weekly", f"Bad filename: {filename}")
-#             continue
-#         company_key = m.group(1)
-
-#         prod_row = producers_df[producers_df['normalized_name'] == normalize_name(company_key)]
-#         if prod_row.empty:
-#             continue
-
-#         company_name = str(prod_row['Εταιρεία'].values[0])
-#         print(f"\n=== Επεξεργασία {filename} ({company_name}) ===")
-
-#         df = read_production_data(str(file_path))
-#         if df is None:
-#             print("  -> SKIP: read_production_data επέστρεψε None")
-#             continue
-
-#         df_week, summary = calculate_weekly_summary_from_month(
-#             df, df_dam_month, prod_row, month_str, start_date, end_date
-#         )
-#         if df_week is None:
-#             print("  -> SKIP: calculate_weekly_summary_from_month επέστρεψε None")
-#             continue
-
-#         xlsx_path, company_name, email_value = generate_invoice_excel_weekly(
-#             df_week, summary, prod_row, start_date, end_date, xlsx_dir, tag
-#         )
-#         if not xlsx_path:
-#             print("  -> SKIP: generate_invoice_excel_weekly απέτυχε")
-#             continue
-
-#         email_key  = (email_value or "NO_EMAIL").strip() or "NO_EMAIL"
-#         subfolder  = determine_pdf_subfolder_name(email_key, email_to_companies)
-#         target_dir = pdf_dir / subfolder[:MAX_FOLDER_CHARS]
-#         target_dir.mkdir(parents=True, exist_ok=True)
-
-#         pdf_name = pdf_filename_weekly(company_name, tag)
-#         pdf_path = target_dir / pdf_name
-
-#         ok, how = export_to_pdf(xlsx_path, str(pdf_path))
-#         status   = "✅ PDF" if ok else "❌ PDF"
-#         print(f"  {status} [{how}] → {pdf_path}")
-
-#     print(f"\nΈτοιμο. Δες: {root}/XLSX και {root}/PDF")
 
 def timologia_weekly(start_date_str: str, end_date_str: str):
     # Parse dates
@@ -1310,11 +1123,12 @@ def timologia_weekly(start_date_str: str, end_date_str: str):
     email_to_companies, _ = build_email_groups(producers_df)
 
     # 4) DAM 15' για τον μήνα
-    if not DAM_FILE_2025.exists():
-        print(f"Λείπει DAM CSV: {DAM_FILE_2025.name}")
+    dam_file = dam_file_for_year(start_date.year)
+    if not dam_file.exists():
+        print(f"Λείπει DAM CSV: {dam_file.name}")
         return
 
-    df_dam_month = load_dam_quarterly_endtime(str(DAM_FILE_2025), month_str)
+    df_dam_month = load_dam_quarterly_endtime(str(dam_file), month_str)
     if df_dam_month is None or df_dam_month.empty:
         print("Αποτυχία: DAM 15' prices (empty).")
         return
@@ -1434,7 +1248,7 @@ def timologia_weekly(start_date_str: str, end_date_str: str):
 
         ok, how = export_to_pdf(xlsx_path, str(pdf_path))
         status  = "✅ PDF" if ok else "❌ PDF"
-        print(f"  {status} [{how}] → {pdf_path}")
+        print(f"{status} [{how}] → {pdf_path}")
 
         processed += 1
 

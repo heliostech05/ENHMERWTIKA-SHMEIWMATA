@@ -810,6 +810,7 @@ def export_to_pdf_with_excel(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
         try:
             sht.api.PageSetup.Zoom = False
             sht.api.PageSetup.FitToPagesWide = 1
+            sht.api.PageSetup.PrintArea = "B1:H57"
         except Exception:
             pass
 

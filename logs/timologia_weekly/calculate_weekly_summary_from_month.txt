@@ -86,3 +86,68 @@ weekly rows=5
 weekly rows=5
 weekly rows=5
 weekly rows=5
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=5
+weekly rows=5
+weekly rows=5
+weekly rows=5
+weekly rows=5
+no rows in requested week 2026-01-01 00:00:00..2026-01-04 00:00:00
+weekly rows=5
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=8
+weekly rows=4
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00
+no monthly summary for 2025-12
+no rows in requested week 2025-12-01 00:00:00..2025-12-07 00:00:00

@@ -230,3 +230,7 @@ PDF export failed for: ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-12/XLSX/
 PDF export failed for: ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-12/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΧΟΥΜΑ_2025-12.xlsx | method=excel-error:Unknown property, element or command: 'ExportAsFixedFormat'
 PDF export failed for: ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-12/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2025-12.xlsx | method=excel-error:Unknown property, element or command: 'ExportAsFixedFormat'
 PDF export failed for: ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-12/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2025-12.xlsx | method=excel-error:Unknown property, element or command: 'ExportAsFixedFormat'
+PDF export failed for: ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-11/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2025-11.xlsx | method=excel-error:Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 14216590)).open_workbook(workbook_file_name='/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-11/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2025-11.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
