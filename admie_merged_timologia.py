@@ -783,14 +783,14 @@ def generate_invoice_excel(df_daily_energy, summary, producer_row, month, xlsx_o
         return None, None, None
 
 # ===== PDF export: Excel first (xlwings), then LibreOffice fallback =====
-def _find_soffice_path() -> str | None:
-    p = shutil.which("soffice")
-    if p:
-        return p
-    default = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
-    if os.path.exists(default):
-        return default
-    return None
+# def _find_soffice_path() -> str | None:
+#     p = shutil.which("soffice")
+#     if p:
+#         return p
+#     default = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
+#     if os.path.exists(default):
+#         return default
+#     return None
 
 def _verify_pdf(path: str, min_bytes: int = 500):
     return os.path.exists(path) and os.path.getsize(path) >= min_bytes
@@ -816,9 +816,23 @@ def export_to_pdf_with_excel(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
         out_pdf = os.path.abspath(pdf_path)
         Path(os.path.dirname(out_pdf)).mkdir(parents=True, exist_ok=True)
 
-        wb.api.ExportAsFixedFormat(0, out_pdf)
-        wb.close()
+        # xlwings wb.to_pdf (if available)
+        try:
+            if hasattr(wb, "to_pdf"):
+                wb.to_pdf(out_pdf)
+                export_failed = False
+            else:
+                raise AttributeError("wb.to_pdf not available")
+        except Exception as e_to_pdf:
+                log(fn, f"wb.to_pdf failed: {e_to_pdf}; trying AppleScript fallback...")
 
+        # Close workbook
+        try:
+            wb.close()
+        except Exception:
+            pass
+
+        # Check if PDF was created
         ok = _verify_pdf(out_pdf)
         if ok:
             log(fn, f"OK via Excel -> {out_pdf}")
@@ -827,7 +841,7 @@ def export_to_pdf_with_excel(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
             log(fn, f"Excel export produced no/empty file at: {out_pdf}")
             return False, "excel-empty"
     except Exception as e:
-        log(fn, f"ERROR (Excel): {e}")
+        log(fn, f"ERROR (Excel outer): {e}")
         return False, f"excel-error:{e}"
     finally:
         try:
@@ -835,7 +849,7 @@ def export_to_pdf_with_excel(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
         except Exception:
             pass
 
-def export_to_pdf_with_libreoffice(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
+# def export_to_pdf_with_libreoffice(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
     """
     Export XLSX -> PDF via LibreOffice (απλό convert-to pdf, χωρίς extra JSON options),
     για να μην κολλάει η soffice και να αποφεύγεται το timeout.
@@ -895,7 +909,8 @@ def export_to_pdf(xlsx_path: str, pdf_path: str) -> tuple[bool, str]:
     ok, how = export_to_pdf_with_excel(xlsx_path, pdf_path)
     if ok:
         return True, how
-    return export_to_pdf_with_libreoffice(xlsx_path, pdf_path)
+    # LibreOffice export is commented out, so return the Excel failure
+    return False, how
 
 # ===== Main flow =====
 def timologia(month):

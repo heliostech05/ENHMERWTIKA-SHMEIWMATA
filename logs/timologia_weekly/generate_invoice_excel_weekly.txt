@@ -1,0 +1,986 @@
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Step 1: Setting row dimensions
+Step 2: Unmerge A1:H4
+Step 3: Add logo
+Template already has a logo; skipping extra logo.
+Step 4: Merge and set C1
+Step 5: Merge and set G2
+Step 6: Set producer info (B3:H3)
+Step 7: Merge and set D5
+Step 8: Unmerge data area C8:G39
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Step 9: Clear data area
+ERROR 'MergedCell' object attribute 'value' is read-only
+Traceback: Traceback (most recent call last):
+  File "/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/enimerwtika_weekly_sithya.py", line 919, in generate_invoice_excel_weekly
+    cell.value = None
+AttributeError: 'MergedCell' object attribute 'value' is read-only
+
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+ERROR 'MergedCell' object attribute 'value' is read-only
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Unmerged: F20:H20
+Unmerged: F29:G29
+Unmerged: F25:G25
+Unmerged: F21:G21
+Unmerged: C29:D29
+Unmerged: F24:G24
+Unmerged: F30:G30
+Unmerged: F27:H27
+Unmerged: F23:G23
+Unmerged: F22:G22
+Unmerged: F28:G28
+Unmerged: C28:D28
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear G20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear G21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G23: 'MergedCell' object attribute 'value' is read-only
+Could not clear G24: 'MergedCell' object attribute 'value' is read-only
+Could not clear G25: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear G27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D28: 'MergedCell' object attribute 'value' is read-only
+Could not clear G28: 'MergedCell' object attribute 'value' is read-only
+Could not clear D29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G30: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear G20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear G21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G23: 'MergedCell' object attribute 'value' is read-only
+Could not clear G24: 'MergedCell' object attribute 'value' is read-only
+Could not clear G25: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear G27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D28: 'MergedCell' object attribute 'value' is read-only
+Could not clear G28: 'MergedCell' object attribute 'value' is read-only
+Could not clear D29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G30: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear G20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear G21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G23: 'MergedCell' object attribute 'value' is read-only
+Could not clear G24: 'MergedCell' object attribute 'value' is read-only
+Could not clear G25: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear G27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D28: 'MergedCell' object attribute 'value' is read-only
+Could not clear G28: 'MergedCell' object attribute 'value' is read-only
+Could not clear D29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G30: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+Could not clear C20: 'MergedCell' object attribute 'value' is read-only
+Could not clear D20: 'MergedCell' object attribute 'value' is read-only
+Could not clear G20: 'MergedCell' object attribute 'value' is read-only
+Could not clear C21: 'MergedCell' object attribute 'value' is read-only
+Could not clear G21: 'MergedCell' object attribute 'value' is read-only
+Could not clear C22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G22: 'MergedCell' object attribute 'value' is read-only
+Could not clear G23: 'MergedCell' object attribute 'value' is read-only
+Could not clear G24: 'MergedCell' object attribute 'value' is read-only
+Could not clear G25: 'MergedCell' object attribute 'value' is read-only
+Could not clear C27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D27: 'MergedCell' object attribute 'value' is read-only
+Could not clear G27: 'MergedCell' object attribute 'value' is read-only
+Could not clear D28: 'MergedCell' object attribute 'value' is read-only
+Could not clear G28: 'MergedCell' object attribute 'value' is read-only
+Could not clear D29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G29: 'MergedCell' object attribute 'value' is read-only
+Could not clear G30: 'MergedCell' object attribute 'value' is read-only
+Could not clear C32: 'MergedCell' object attribute 'value' is read-only
+Could not clear D32: 'MergedCell' object attribute 'value' is read-only
+Could not clear E32: 'MergedCell' object attribute 'value' is read-only
+Could not clear F32: 'MergedCell' object attribute 'value' is read-only
+Could not clear G32: 'MergedCell' object attribute 'value' is read-only
+Could not clear C33: 'MergedCell' object attribute 'value' is read-only
+Could not clear D33: 'MergedCell' object attribute 'value' is read-only
+Could not clear E33: 'MergedCell' object attribute 'value' is read-only
+Could not clear F33: 'MergedCell' object attribute 'value' is read-only
+Could not clear G33: 'MergedCell' object attribute 'value' is read-only
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W52/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2025-W52.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W02.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W02.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W02.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W02.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W02.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W01.xlsx
+Template already has a logo; skipping extra logo.
+XLSX OK: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W01/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W01.xlsx

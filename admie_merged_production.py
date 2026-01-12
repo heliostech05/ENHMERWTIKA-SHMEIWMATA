@@ -2,7 +2,9 @@
 import os
 import re
 import pandas as pd
+import unicodedata
 from collections import defaultdict
+
 
 # ====== ΡΥΘΜΙΣΕΙΣ LOGS ======
 LOG_BASE = "logs/merged_production"
@@ -95,8 +97,18 @@ def assign_month_column(df):
     log(function_name, f"Προστέθηκε στήλη Μήνας σε {len(df)} εγγραφές.")
     return df
 
-def safe_company_folder_name(name):
-    return re.sub(r'[\\/*?:"<>|]', "", name.replace(" ", "_"))
+def safe_company_folder_name(name: str) -> str:
+    # 1. Unicode normalization
+    name = unicodedata.normalize("NFKC", name)
+
+    # 2. Αντικατάσταση ΟΛΩΝ των whitespace (space, NBSP, tabs κλπ) με _
+    name = re.sub(r"\s+", "_", name)
+
+    # 3. Καθάρισμα διπλών _
+    name = re.sub(r"_+", "_", name)
+
+    # 4. Trim
+    return name.strip("_")
 
 # ====== ΣΥΓΧΩΝΕΥΣΗ ΜΕ ΥΠΑΡΧΟΝ CSV ======
 def merge_with_existing_csv(group_df, out_file):

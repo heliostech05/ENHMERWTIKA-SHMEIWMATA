@@ -1,0 +1,8 @@
+Failed to set value at D1:F2 after 3 attempts: 'tuple' object has no attribute 'value'
+Final attempt failed for D1:F2: 'tuple' object has no attribute 'value'
+Failed to set value at D6:F6 after 3 attempts: 'tuple' object has no attribute 'value'
+Final attempt failed for D6:F6: 'tuple' object has no attribute 'value'
+Failed to set value at D6:F6 after 3 attempts: 'tuple' object has no attribute 'value'
+Final attempt failed for D6:F6: 'tuple' object has no attribute 'value'
+Failed to set value at D6:F6 after 3 attempts: 'tuple' object has no attribute 'value'
+Final attempt failed for D6:F6: 'tuple' object has no attribute 'value'

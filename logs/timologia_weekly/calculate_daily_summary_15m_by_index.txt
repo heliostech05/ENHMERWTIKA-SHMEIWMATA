@@ -1,0 +1,341 @@
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+daily rows=14 for month=2025-12
+no production rows for 2025-10
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+daily rows=14 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+no production rows for 2025-10
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=28 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=25 for month=2025-12
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=2 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=28 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=25 for month=2025-12
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=2 for month=2025-12
+Length mismatch 2026-01-01: prod=4, dam=96, using first 4
+daily rows=2 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-01: prod=4, dam=96, using first 4
+daily rows=2 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-01: prod=92, dam=96, using first 92
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=32 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=28 for month=2025-12
+Length mismatch 2025-12-25: prod=4, dam=96, using first 4
+Length mismatch 2025-12-26: prod=92, dam=96, using first 92
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=25 for month=2025-12
+Length mismatch 2025-12-31: prod=95, dam=96, using first 95
+daily rows=2 for month=2025-12
+Length mismatch 2026-01-01: prod=4, dam=96, using first 4
+daily rows=2 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01
+Length mismatch 2026-01-05: prod=4, dam=96, using first 4
+daily rows=6 for month=2026-01

@@ -1,0 +1,21 @@
+DAM 15' rows after filters: 1248 for 2025-12
+DAM 15' rows after filters: 1248 for 2025-12
+ERROR 'utf-8' codec can't decode bytes in position 15-16: invalid continuation byte
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12
+DAM 15' rows after filters: 2976 for 2025-12

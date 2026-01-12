@@ -1,0 +1,3 @@
+Failed to set alignment on D6:F6: 'tuple' object has no attribute 'alignment'
+Failed to set alignment on D6:F6: 'tuple' object has no attribute 'alignment'
+Failed to set alignment on D6:F6: 'tuple' object has no attribute 'alignment'
