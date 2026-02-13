@@ -2163,3 +2163,345 @@ Length mismatch 2025-11-30: prod=95, dam=96, using first 95
 daily rows=31 for month=2025-11
 Length mismatch 2025-11-30: prod=95, dam=96, using first 95
 daily rows=31 for month=2025-11
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=22 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=28 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=22 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=95, dam=96, using first 95
+daily rows=9 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=22 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=28 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=22 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=95, dam=96, using first 95
+daily rows=9 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=22 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=28 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=22 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=95, dam=96, using first 95
+daily rows=9 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-01: prod=92, dam=96, using first 92
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01
+Length mismatch 2026-01-31: prod=4, dam=96, using first 4
+daily rows=32 for month=2026-01

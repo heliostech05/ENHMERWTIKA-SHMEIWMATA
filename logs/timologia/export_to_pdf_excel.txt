@@ -548,3 +548,165 @@ ERROR (Excel outer): Command failed:
 		MESSAGE: Parameter error.
 		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 14216590)).open_workbook(workbook_file_name='/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-11/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2025-11.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
 OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2025-11/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2025-11.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/SERVICE GAS ONE ΜΟΝ. Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/HYDROGARDENS/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ -_ΛΟΥΝΤΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΠΑΡΙΣΗ ΑΙΚΑΤΕΡΙΝΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΡΙΣΗ_ΑΙΚΑΤΕΡΙΝΗ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 1/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΓΛΥΝΕΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΕΡΑΝ_ΕΝΕΡΓΕΙΑΚΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΑΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΛΙΒΑΔΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΔΙΒΡΥΩΣΤΡΑΤΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΜΑΝΤΕΣ ΙΩΑΝΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΜΑΝΤΕΣ_ΙΩΑΝΝΗΣ_-_ΜΑΝΤΕΣ_ΔΗΜΟΣ_-_ΠΑΠΑΡΟΥΠΑΣ_ΠΑΝΑΓΙΩΤΗΣ_Ο.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΨΑΛΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΗΛΙΟΥ ΟΦΕΛΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΗΛΙΟΥ_ΟΦΕΛΟΣ_ΙΚΕ_-_ΛΟΥΝΤΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ ΙΚΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΚΡΑΝΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ -_ΝΤΑΟΥΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΟΣ_ΑΘΑΝΑΣΙΟΣ_1_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΝΑΤΕΓΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΝΑΤΕΓΙΑ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΥΦΑΛΕΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΟΣ_ΑΘΑΝΑΣΙΟΣ_2_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΝΩ_ΠΕΤΡΟΧΩΡΑΦΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΑΠΟΛΛΩΝ ΗΕ ΚΟΖΑΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝ._ΚΟΙΝΟΤ._ΠΕΡ._ΕΥΘΥΝΗΣ_ΑΠΟΛΛΩΝ_ΗΛΕΚΤΡΟΕΝΕΡΓΕΙΑΚΗ_ΚΟΖΑΝΗΣ_1_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΔΡΑΚΟΣΠΗΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΓΚΟΥΖΕΛΟΣ ΗΛΙΑΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΓΚΟΥΖΕΛΟΣ_ΗΛΙΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΑΠΟΛΛΩΝ ΗΕ ΚΟΖΑΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝ._ΚΟΙΝΟΤ._ΠΕΡ._ΕΥΘΥΝΗΣ_ΑΠΟΛΛΩΝ_ΗΛΕΚΤΡΟΕΝΕΡΓΕΙΑΚΗ_ΚΟΖΑΝΗΣ_2_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΛΑ_ΧΩΡΑΦΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΣΤΡΟΥΓΓΑ_ΠΗΓΑΔΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/E.T.B.A. ΒΙΟΜΗΧΑΝΙΚΕΣ ΠΕΡΙΟΧΕΣ Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_E.T.B.A._ΒΙΟΜΗΧΑΝΙΚΕΣ_ΠΕΡΙΟΧΕΣ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΑ_ΕΛΕΝΗ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΙΤΣΙΑ_Μ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΚΟΡΚΑΣ ΠΑΥΛΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΟΡΚΑΣ_Π._&_ΣΙΑ_Ε.Ε._(ΗΛΙΟΔΥΝΑΜΙΚΗ_ΒΟΧΑΣ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΓΑΙΩΕΡΓΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΧΟΥΜΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΤΣΑΝΤΙΛΑΣ ΒΑΣΙΛΕΙΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΣΙΛΕΙΟΣ_ΤΣΑΝΤΙΛΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_(ΣΠΑΝΙΕΣ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/HYDROTHESS/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΚΑΡΤΣΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/SERVICE GAS ONE ΜΟΝ. Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/HYDROGARDENS/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ -_ΛΟΥΝΤΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΠΑΡΙΣΗ ΑΙΚΑΤΕΡΙΝΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΡΙΣΗ_ΑΙΚΑΤΕΡΙΝΗ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 1/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΓΛΥΝΕΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΕΡΑΝ_ΕΝΕΡΓΕΙΑΚΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΑΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΛΙΒΑΔΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΔΙΒΡΥΩΣΤΡΑΤΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΜΑΝΤΕΣ ΙΩΑΝΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΜΑΝΤΕΣ_ΙΩΑΝΝΗΣ_-_ΜΑΝΤΕΣ_ΔΗΜΟΣ_-_ΠΑΠΑΡΟΥΠΑΣ_ΠΑΝΑΓΙΩΤΗΣ_Ο.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΨΑΛΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΗΛΙΟΥ ΟΦΕΛΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΗΛΙΟΥ_ΟΦΕΛΟΣ_ΙΚΕ_-_ΛΟΥΝΤΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ ΙΚΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΚΡΑΝΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ -_ΝΤΑΟΥΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΟΣ_ΑΘΑΝΑΣΙΟΣ_1_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΝΑΤΕΓΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΝΑΤΕΓΙΑ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΥΦΑΛΕΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΟΣ_ΑΘΑΝΑΣΙΟΣ_2_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΝΩ_ΠΕΤΡΟΧΩΡΑΦΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΑΠΟΛΛΩΝ ΗΕ ΚΟΖΑΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝ._ΚΟΙΝΟΤ._ΠΕΡ._ΕΥΘΥΝΗΣ_ΑΠΟΛΛΩΝ_ΗΛΕΚΤΡΟΕΝΕΡΓΕΙΑΚΗ_ΚΟΖΑΝΗΣ_1_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΔΡΑΚΟΣΠΗΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΓΚΟΥΖΕΛΟΣ ΗΛΙΑΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΓΚΟΥΖΕΛΟΣ_ΗΛΙΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΑΠΟΛΛΩΝ ΗΕ ΚΟΖΑΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝ._ΚΟΙΝΟΤ._ΠΕΡ._ΕΥΘΥΝΗΣ_ΑΠΟΛΛΩΝ_ΗΛΕΚΤΡΟΕΝΕΡΓΕΙΑΚΗ_ΚΟΖΑΝΗΣ_2_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΛΑ_ΧΩΡΑΦΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΣΤΡΟΥΓΓΑ_ΠΗΓΑΔΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/E.T.B.A. ΒΙΟΜΗΧΑΝΙΚΕΣ ΠΕΡΙΟΧΕΣ Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_E.T.B.A._ΒΙΟΜΗΧΑΝΙΚΕΣ_ΠΕΡΙΟΧΕΣ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΑ_ΕΛΕΝΗ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΙΤΣΙΑ_Μ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΚΟΡΚΑΣ ΠΑΥΛΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΟΡΚΑΣ_Π._&_ΣΙΑ_Ε.Ε._(ΗΛΙΟΔΥΝΑΜΙΚΗ_ΒΟΧΑΣ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΓΑΙΩΕΡΓΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΧΟΥΜΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΤΣΑΝΤΙΛΑΣ ΒΑΣΙΛΕΙΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΣΙΛΕΙΟΣ_ΤΣΑΝΤΙΛΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_(ΣΠΑΝΙΕΣ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/HYDROTHESS/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΚΑΡΤΣΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/SERVICE GAS ONE ΜΟΝ. Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/HYDROGARDENS/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ -_ΛΟΥΝΤΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΠΑΡΙΣΗ ΑΙΚΑΤΕΡΙΝΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΡΙΣΗ_ΑΙΚΑΤΕΡΙΝΗ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 1/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΓΛΥΝΕΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΕΡΑΝ_ΕΝΕΡΓΕΙΑΚΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΑΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΛΙΒΑΔΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΔΙΒΡΥΩΣΤΡΑΤΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΜΑΝΤΕΣ ΙΩΑΝΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΜΑΝΤΕΣ_ΙΩΑΝΝΗΣ_-_ΜΑΝΤΕΣ_ΔΗΜΟΣ_-_ΠΑΠΑΡΟΥΠΑΣ_ΠΑΝΑΓΙΩΤΗΣ_Ο.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΨΑΛΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΗΛΙΟΥ ΟΦΕΛΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΗΛΙΟΥ_ΟΦΕΛΟΣ_ΙΚΕ_-_ΛΟΥΝΤΡΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ ΙΚΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΚΡΑΝΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO & ΠΕΡΑΝ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ -_ΝΤΑΟΥΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΟΣ_ΑΘΑΝΑΣΙΟΣ_1_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΝΑΤΕΓΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΝΑΤΕΓΙΑ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΥΦΑΛΕΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΟΣ_ΑΘΑΝΑΣΙΟΣ_2_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΝΩ_ΠΕΤΡΟΧΩΡΑΦΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΑΠΟΛΛΩΝ ΗΕ ΚΟΖΑΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝ._ΚΟΙΝΟΤ._ΠΕΡ._ΕΥΘΥΝΗΣ_ΑΠΟΛΛΩΝ_ΗΛΕΚΤΡΟΕΝΕΡΓΕΙΑΚΗ_ΚΟΖΑΝΗΣ_1_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΔΡΑΚΟΣΠΗΛΙΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΓΚΟΥΖΕΛΟΣ ΗΛΙΑΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΓΚΟΥΖΕΛΟΣ_ΗΛΙΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΑΠΟΛΛΩΝ ΗΕ ΚΟΖΑΝΗΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝ._ΚΟΙΝΟΤ._ΠΕΡ._ΕΥΘΥΝΗΣ_ΑΠΟΛΛΩΝ_ΗΛΕΚΤΡΟΕΝΕΡΓΕΙΑΚΗ_ΚΟΖΑΝΗΣ_2_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΛΑ_ΧΩΡΑΦΙΑ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΣΤΡΟΥΓΓΑ_ΠΗΓΑΔΙ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/E.T.B.A. ΒΙΟΜΗΧΑΝΙΚΕΣ ΠΕΡΙΟΧΕΣ Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_E.T.B.A._ΒΙΟΜΗΧΑΝΙΚΕΣ_ΠΕΡΙΟΧΕΣ_Α.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΑΓΙΑ_ΕΛΕΝΗ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΙΤΣΙΑ_Μ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΚΟΡΚΑΣ ΠΑΥΛΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΟΡΚΑΣ_Π._&_ΣΙΑ_Ε.Ε._(ΗΛΙΟΔΥΝΑΜΙΚΗ_ΒΟΧΑΣ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΓΑΙΩΕΡΓΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΧΟΥΜΑ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΤΣΑΝΤΙΛΑΣ ΒΑΣΙΛΕΙΟΣ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΣΙΛΕΙΟΣ_ΤΣΑΝΤΙΛΑΣ_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_(ΣΠΑΝΙΕΣ)_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/HYDROTHESS/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-01.pdf
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-01/PDF/ΚΑΡΤΣΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-01.pdf

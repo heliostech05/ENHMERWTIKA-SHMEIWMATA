@@ -23,3 +23,9 @@ DAM 15' rows after filters: 2976 for 2025-12
 DAM 15' rows after filters: 2976 for 2025-12
 DAM 15' rows after filters: 2880 for 2025-11
 DAM 15' rows after filters: 2880 for 2025-11
+DAM 15' rows after filters: 0 for 2026-01
+DAM 15' rows after filters: 0 for 2026-01
+DAM 15' rows after filters: 0 for 2026-01
+DAM 15' rows after filters: 2976 for 2026-01
+DAM 15' rows after filters: 2976 for 2026-01
+DAM 15' rows after filters: 2976 for 2026-01

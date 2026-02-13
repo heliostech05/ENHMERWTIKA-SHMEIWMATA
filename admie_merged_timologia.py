@@ -921,7 +921,7 @@ def timologia(month):
 
     email_to_companies, email_to_customs = build_email_groups(producers_df)
 
-    dam_file = 'energy-charts_Electricity_production_and_spot_prices_in_Greece_in_2025.csv'
+    dam_file = 'energy-charts_Electricity_production_and_spot_prices_in_Greece_in_2026.csv'
     df_dam_15m = load_dam_quarterly_endtime(dam_file, month)
     if df_dam_15m is None or df_dam_15m.empty:
         print("Αποτυχία: DAM 15' prices"); return

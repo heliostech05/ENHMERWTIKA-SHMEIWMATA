@@ -233,3 +233,39 @@ PageSetup warn: Unknown property, element or command: 'PageSetup'
 OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.pdf
 PageSetup warn: Unknown property, element or command: 'PageSetup'
 OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2025-W49/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2025-W49.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W02/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ_2026-W02.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-W03.pdf
+PageSetup warn: Unknown property, element or command: 'PageSetup'
+OK via Excel -> /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W03/PDF/UNTITLED/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ_2026-W03.pdf
