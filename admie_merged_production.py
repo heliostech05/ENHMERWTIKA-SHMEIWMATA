@@ -1,204 +1,278 @@
 # -*- coding: utf-8 -*-
+"""
+admie_merged_production.py — Διαχωρισμός GREEN_VE6 CSVs ανά παραγωγό.
+
+Διαβάζει ημερήσια GREEN_VE6 αρχεία από downloads/{YYYY-MM}/,
+τα σπάει ανά ΚΩΔΙΚΟ ΕΔΡΕΘ, και τα συγχωνεύει σε per-company
+αρχεία CSV στο ΠΑΡΑΓΩΓΗ/.
+
+Χρήση:
+    python admie_merged_production.py
+"""
+
+import logging
 import os
 import re
-import pandas as pd
-import unicodedata
+import sys
 from collections import defaultdict
+from pathlib import Path
+
+import pandas as pd
+
+from MONTHLY.config import BASE_DIR, PRODUCERS_PATH, PRODUCTION_DIR
+from MONTHLY.helpers import sanitize_name
+
+# ===== Logging =====
+LOG_FILE = BASE_DIR / "logs" / "merged_production.log"
+LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+log = logging.getLogger("merged_production")
+log.setLevel(logging.DEBUG)
+
+if not log.handlers:
+    fh = logging.FileHandler(LOG_FILE, encoding="utf-8")
+    fh.setLevel(logging.DEBUG)
+    fh.setFormatter(logging.Formatter(
+        "%(asctime)s | %(funcName)s | %(levelname)s | %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
+    ))
+    log.addHandler(fh)
+
+    ch = logging.StreamHandler()
+    ch.setLevel(logging.WARNING)
+    ch.setFormatter(logging.Formatter("%(levelname)s: %(message)s"))
+    log.addHandler(ch)
+
+# ===== Constants =====
+DOWNLOADS_DIR = BASE_DIR / "downloads"
+
+# Regex: matches all documented GREEN_VE6 filename variants:
+#   GREEN_VE6YYYYMMDD.csv       GREEN_VE6_YYYYMMDD.csv
+#   GREEN_VE6YYYYMMDD1.csv      GREEN_VE6_YYYYMMDD_2.csv
+_VE6_PATTERN = re.compile(
+    r"GREEN_VE6_?(\d{8})_?(\d)?\.csv", re.IGNORECASE
+)
 
 
-# ====== ΡΥΘΜΙΣΕΙΣ LOGS ======
-LOG_BASE = "logs/merged_production"
-os.makedirs(LOG_BASE, exist_ok=True)
+# ===== Producer loading =====
 
-for filename in ["load_producers", "get_latest_green_ve6_files", "preprocess_timestamp_column", "assign_month_column", "merge_with_existing_csv", "process_file", "split_files_by_code"]:
-    log_path = os.path.join(LOG_BASE, f"{filename}.txt")
-    open(log_path, "w", encoding="utf-8").close()
-
-def log(function_name, message):
-    """Απλή συνάρτηση καταγραφής σε αρχείο ανά function."""
-    log_path = os.path.join(LOG_BASE, f"{function_name}.txt")
-    with open(log_path, "a", encoding="utf-8") as f:
-        f.write(message + "\n")
-
-# ====== HELPERS ======
 def load_producers(filepath):
-    function_name = "load_producers"
+    """Φόρτωση producers.xlsx — επιστρέφει DataFrame με stripped Code/Εταιρεία."""
     try:
-        df = pd.read_excel(filepath, dtype={'Code': str})
-        if 'Code' not in df.columns or 'Εταιρεία' not in df.columns:
-            raise ValueError("Το αρχείο δεν περιέχει τις στήλες 'Code' και 'Εταιρεία'")
-        df['Code'] = df['Code'].astype(str).str.strip()
-        df['Εταιρεία'] = df['Εταιρεία'].astype(str).str.strip()
-        log(function_name, "Καταγεγραμμένοι παραγωγοί:")
+        df = pd.read_excel(filepath, dtype={"Code": str})
+        if "Code" not in df.columns or "Εταιρεία" not in df.columns:
+            raise ValueError("Λείπουν στήλες 'Code' και/ή 'Εταιρεία'")
+
+        df["Code"] = df["Code"].astype(str).str.strip()
+        df["Εταιρεία"] = df["Εταιρεία"].astype(str).str.strip()
+
+        log.info("Loaded %d producers", len(df))
         for _, row in df.iterrows():
-            log(function_name, f"Code: {row['Code']} -> Εταιρεία: {row['Εταιρεία']}")
-        log(function_name, f"Συνολικά φορτώθηκαν {len(df)} παραγωγοί.")
+            log.debug("  Code %s → %s", row["Code"], row["Εταιρεία"])
         return df
+
     except Exception as e:
-        log(function_name, f"Σφάλμα: {e}")
+        log.error("Failed to load producers: %s", e)
         return None
+
+
+# ===== File selection =====
 
 def get_latest_green_ve6_files(folder):
     """
-    Επιστρέφει τη νεότερη έκδοση ανά ημερομηνία για αρχεία που μοιάζουν με:
-      GREEN_VE6YYYYMMDD.csv
-      GREEN_VE6_YYYYMMDD.csv
-      GREEN_VE6YYYYMMDD1.csv
-      GREEN_VE6_YYYYMMDD_2.csv
-    κ.λπ. (ανθεκτικό regex).
-    Αν δεν γίνει match, ως fallback ταξινομεί αλφαβητικά και τα παίρνει όλα.
+    Επιστρέφει τη νεότερη έκδοση ανά ημερομηνία για αρχεία GREEN_VE6.
+
+    Υποστηριζόμενα patterns:
+        GREEN_VE6YYYYMMDD.csv       GREEN_VE6_YYYYMMDD.csv
+        GREEN_VE6YYYYMMDD1.csv      GREEN_VE6_YYYYMMDD_2.csv
     """
-    function_name = "get_latest_green_ve6_files"
     date_to_file = defaultdict(list)
-    csv_files = [f for f in os.listdir(folder) if f.startswith("GREEN_VE6") and f.endswith(".csv")]
-    log(function_name, f"Βρέθηκαν {len(csv_files)} αρχεία στον φάκελο {folder}.")
+    csv_files = [f for f in os.listdir(folder)
+                 if f.upper().startswith("GREEN_VE6") and f.endswith(".csv")]
+
+    log.info("Found %d GREEN_VE6 files in %s", len(csv_files), folder)
+
     for filename in csv_files:
-        match = re.match(r"GREEN_VE6(\d{8})(\d)\.csv", filename)
-        if match:
-            date = match.group(1)
-            edition = int(match.group(2))
-            date_to_file[date].append((edition, filename))
+        m = _VE6_PATTERN.match(filename)
+        if not m:
+            log.warning("Skipping unrecognized file: %s", filename)
+            continue
+        date = m.group(1)
+        edition = int(m.group(2)) if m.group(2) else 0
+        date_to_file[date].append((edition, filename))
+
     latest_files = []
     for date in sorted(date_to_file.keys()):
-        files = date_to_file[date]
-        latest = sorted(files, reverse=True)[0]
-        log(function_name, f"{date} -> έκδοση {latest[0]}: {latest[1]}")
-        latest_files.append(latest[1])
+        best_edition, best_file = max(date_to_file[date])
+        log.debug("  %s → edition %d: %s", date, best_edition, best_file)
+        latest_files.append(best_file)
+
+    log.info("Selected %d files (one per date)", len(latest_files))
     return latest_files
 
-# ====== ΕΠΕΞΕΡΓΑΣΙΑ TIMESTAMP ======
+
+# ===== Timestamp processing =====
+
 def preprocess_timestamp_column(df):
-    function_name = "preprocess_timestamp_column"
-    if 'TIMESTAMP' not in df.columns:
-        log(function_name, "Λείπει η στήλη TIMESTAMP.")
+    """Μετατροπή TIMESTAMP — χειρισμός 24:00 ως 00:00 επόμενης ημέρας."""
+    if "TIMESTAMP" not in df.columns:
         raise ValueError("Λείπει η στήλη TIMESTAMP")
-    is_24 = df['TIMESTAMP'].str.contains('24:00', regex=False)
-    new_timestamps = df['TIMESTAMP'].copy()
-    new_timestamps[is_24] = (
-        pd.to_datetime(df.loc[is_24, 'TIMESTAMP'].str.replace('24:00', '00:00'),
-                       format='%d/%m/%Y %H:%M', errors='coerce') + pd.Timedelta(days=1)
-    ).dt.strftime('%d/%m/%Y %H:%M')
-    df['TIMESTAMP'] = new_timestamps
-    df['datetime'] = pd.to_datetime(df['TIMESTAMP'], format='%d/%m/%Y %H:%M', errors='coerce')
-    log(function_name, f"Επεξεργάστηκαν {len(df)} TIMESTAMPs.")
+
+    is_24 = df["TIMESTAMP"].str.contains("24:00", regex=False)
+    new_ts = df["TIMESTAMP"].copy()
+    new_ts[is_24] = (
+        pd.to_datetime(
+            df.loc[is_24, "TIMESTAMP"].str.replace("24:00", "00:00"),
+            format="%d/%m/%Y %H:%M", errors="coerce",
+        ) + pd.Timedelta(days=1)
+    ).dt.strftime("%d/%m/%Y %H:%M")
+
+    df["TIMESTAMP"] = new_ts
+    df["datetime"] = pd.to_datetime(df["TIMESTAMP"], format="%d/%m/%Y %H:%M", errors="coerce")
+    log.debug("Processed %d timestamps", len(df))
     return df
+
 
 def assign_month_column(df):
-    function_name = "assign_month_column"
+    """
+    Προσθήκη στήλης Μήνας (YYYY-MM).
+
+    Ειδική περίπτωση: 00:00 της 1ης ημέρας ανήκει στον ΠΡΟΗΓΟΥΜΕΝΟ μήνα
+    (είναι το τελευταίο 15λεπτο εκείνου του μήνα).
+    """
     at_month_start = (
-        (df['datetime'].dt.day == 1) &
-        (df['datetime'].dt.hour == 0) &
-        (df['datetime'].dt.minute == 0)
+        (df["datetime"].dt.day == 1)
+        & (df["datetime"].dt.hour == 0)
+        & (df["datetime"].dt.minute == 0)
     )
-    df['Μήνας'] = df['datetime'].dt.to_period('M').astype(str)
-    df.loc[at_month_start, 'Μήνας'] = (
-        df.loc[at_month_start, 'datetime'] - pd.DateOffset(days=1)
-    ).dt.to_period('M').astype(str)
-    log(function_name, f"Προστέθηκε στήλη Μήνας σε {len(df)} εγγραφές.")
+    df["Μήνας"] = df["datetime"].dt.to_period("M").astype(str)
+    df.loc[at_month_start, "Μήνας"] = (
+        df.loc[at_month_start, "datetime"] - pd.DateOffset(days=1)
+    ).dt.to_period("M").astype(str)
+
+    log.debug("Assigned month column to %d rows", len(df))
     return df
 
-def safe_company_folder_name(name: str) -> str:
-    # 1. Unicode normalization
-    name = unicodedata.normalize("NFKC", name)
 
-    # 2. Αντικατάσταση ΟΛΩΝ των whitespace (space, NBSP, tabs κλπ) με _
-    name = re.sub(r"\s+", "_", name)
+# ===== Merge with existing CSV =====
 
-    # 3. Καθάρισμα διπλών _
-    name = re.sub(r"_+", "_", name)
-
-    # 4. Trim
-    return name.strip("_")
-
-# ====== ΣΥΓΧΩΝΕΥΣΗ ΜΕ ΥΠΑΡΧΟΝ CSV ======
 def merge_with_existing_csv(group_df, out_file):
-    function_name = "merge_with_existing_csv"
+    """Συγχώνευση νέων δεδομένων με υπάρχον CSV — νέα δεδομένα κερδίζουν σε σύγκρουση."""
     group_df = group_df.copy()
-    group_df.set_index('TIMESTAMP', inplace=True)
+    group_df.set_index("TIMESTAMP", inplace=True)
+
     if os.path.exists(out_file):
         try:
-            existing_df = pd.read_csv(out_file, delimiter=';', encoding='utf-8-sig')
-            existing_df.set_index('TIMESTAMP', inplace=True)
-            combined_df = existing_df[~existing_df.index.isin(group_df.index)]
-            combined_df = pd.concat([combined_df, group_df])
-            log(function_name, f"Συγχώνευση με υπάρχον αρχείο: {out_file}")
+            existing = pd.read_csv(out_file, delimiter=";", encoding="utf-8-sig")
+            existing.set_index("TIMESTAMP", inplace=True)
+            # Κρατάμε μόνο τα παλιά rows που ΔΕΝ υπάρχουν στα νέα
+            combined = pd.concat([existing[~existing.index.isin(group_df.index)], group_df])
+            log.debug("Merged with existing: %s", out_file)
         except Exception as e:
-            log(function_name, f"Σφάλμα ανάγνωσης υπάρχοντος αρχείου {out_file}: {e}")
-            combined_df = group_df
+            log.warning("Could not read existing %s: %s — overwriting", out_file, e)
+            combined = group_df
     else:
-        log(function_name, f"Δημιουργία νέου αρχείου: {out_file}")
-        combined_df = group_df
-    combined_df = combined_df.reset_index()
-    combined_df['datetime'] = pd.to_datetime(combined_df['TIMESTAMP'], format='%d/%m/%Y %H:%M', errors='coerce')
-    combined_df = combined_df.sort_values('datetime').drop(columns=['datetime'])
-    return combined_df
+        log.debug("Creating new file: %s", out_file)
+        combined = group_df
+
+    # Sort chronologically
+    combined = combined.reset_index()
+    combined["_sort"] = pd.to_datetime(combined["TIMESTAMP"], format="%d/%m/%Y %H:%M", errors="coerce")
+    combined = combined.sort_values("_sort").drop(columns=["_sort"])
+    return combined
+
+
+# ===== Per-file processing =====
 
 def process_file(filepath, producers_df, output_folder):
     """
-    - Διαβάζει το CSV (smart)
-    - Ελέγχει ότι υπάρχει 'ΚΩΔΙΚΟΣ ΕΔΡΕΘ'
-    - Προεπεξεργάζεται TIMESTAMP, προσθέτει 'Μήνας'
-    - Για κάθε ΕΔΡΕΘ (Code), βρίσκει την εταιρεία από producers.xlsx
-    - Αποθηκεύει σε: ΠΑΡΑΓΩΓΗ/{Εταιρεία}/ΠΑΡΑΓΩΓΗ_{Εταιρεία}.csv (append/merge)
+    Διαβάζει ένα GREEN_VE6 CSV, σπάει ανά ΚΩΔΙΚΟ ΕΔΡΕΘ,
+    και γράφει/συγχωνεύει στο αντίστοιχο ΠΑΡΑΓΩΓΗ_{company}.csv.
     """
-    function_name = "process_file"
-    log(function_name, f"Επεξεργασία αρχείου: {filepath}")
+    log.info("Processing: %s", filepath)
     try:
-        df = pd.read_csv(filepath, delimiter=';', encoding='utf-8-sig', skiprows=1)
+        df = pd.read_csv(filepath, delimiter=";", encoding="utf-8-sig", skiprows=1)
     except Exception as e:
-        log(function_name, f"Σφάλμα ανάγνωσης: {e}")
+        log.error("Failed to read %s: %s", filepath, e)
         return
-    if 'ΚΩΔΙΚΟΣ ΕΔΡΕΘ' not in df.columns:
-        log(function_name, "Λείπει η στήλη ΚΩΔΙΚΟΣ ΕΔΡΕΘ.")
+
+    if "ΚΩΔΙΚΟΣ ΕΔΡΕΘ" not in df.columns:
+        log.error("Missing column 'ΚΩΔΙΚΟΣ ΕΔΡΕΘ' in %s", filepath)
         return
-    # TIMESTAMP -> datetime
+
     try:
         df = preprocess_timestamp_column(df)
-    except Exception as e:
-        log(function_name, f"Σφάλμα TIMESTAMP: {e}")
+    except ValueError as e:
+        log.error("Timestamp error in %s: %s", filepath, e)
         return
-    df = assign_month_column(df)
-    
-    # Για κάθε κωδικό ΕΔΡΕΘ, γράψε στην εταιρεία του
-    for code_value, group in df.groupby('ΚΩΔΙΚΟΣ ΕΔΡΕΘ'):
-        code_str = str(code_value).strip()
-        producers_df['Code'] = producers_df['Code'].astype(str).str.strip()
-        producer_row = producers_df[producers_df['Code'] == code_str]
-        if producer_row.empty:
-            log(function_name, f"Άγνωστος ΚΩΔΙΚΟΣ ΕΔΡΕΘ: {code_str}")
-            continue
-        company_name = producer_row['Εταιρεία'].values[0]
-        safe_name = safe_company_folder_name(company_name)
-        out_file = os.path.join(output_folder, f"ΠΑΡΑΓΩΓΗ_{safe_name}.csv")
-        final_df = merge_with_existing_csv(group, out_file)
-        final_df.to_csv(out_file, index=False, sep=';', encoding='utf-8-sig')
-        log(function_name, f"Αποθήκευση για {company_name} ({code_str}) στο {out_file}")
 
-# ====== ORCHESTRATOR ======
+    df = assign_month_column(df)
+
+    for code_value, group in df.groupby("ΚΩΔΙΚΟΣ ΕΔΡΕΘ"):
+        code_str = str(code_value).strip()
+        producer_row = producers_df[producers_df["Code"] == code_str]
+
+        if producer_row.empty:
+            log.warning("Unknown ΚΩΔΙΚΟΣ ΕΔΡΕΘ: %s", code_str)
+            continue
+
+        company_name = producer_row["Εταιρεία"].values[0]
+        safe_name = sanitize_name(company_name).replace(" ", "_")
+        out_file = os.path.join(output_folder, f"ΠΑΡΑΓΩΓΗ_{safe_name}.csv")
+
+        final_df = merge_with_existing_csv(group, out_file)
+        final_df.to_csv(out_file, index=False, sep=";", encoding="utf-8-sig")
+        log.info("  %s (%s) → %s (%d rows)", company_name, code_str, out_file, len(final_df))
+
+
+# ===== Orchestrator =====
+
 def split_files_by_code(month):
     """
-    - Παίρνει τον φάκελο downloads/{YYYY-MM}
-    - Φορτώνει producers.xlsx
-    - Βρίσκει τα τελευταία GREEN_VE6 CSV ανά ημέρα
-    - Τα περνάει από process_file
-    - Γράφει λογιστικά logs στο logs/merged_production
+    Κύρια ροή:
+    1. Φόρτωση producers.xlsx
+    2. Εύρεση τελευταίων GREEN_VE6 CSVs ανά ημέρα
+    3. Σπάσιμο ανά κωδικό ΕΔΡΕΘ → per-company output CSVs
     """
-    input_folder = f'downloads/{month}'
-    output_folder = 'ΠΑΡΑΓΩΓΗ'
-    os.makedirs(output_folder, exist_ok=True)
-    producers_df = load_producers('producers.xlsx')
-    if producers_df is None:
+    input_folder = str(DOWNLOADS_DIR / month)
+    output_folder = str(PRODUCTION_DIR)
+
+    if not os.path.isdir(input_folder):
+        log.error("Input folder not found: %s", input_folder)
+        print(f"❌ Ο φάκελος {input_folder} δεν υπάρχει.")
         return
+
+    os.makedirs(output_folder, exist_ok=True)
+
+    producers_df = load_producers(str(PRODUCERS_PATH))
+    if producers_df is None:
+        print("❌ Αποτυχία φόρτωσης producers.xlsx")
+        return
+
     latest_files = get_latest_green_ve6_files(input_folder)
+    if not latest_files:
+        log.warning("No GREEN_VE6 files found in %s", input_folder)
+        print(f"⚠️ Δεν βρέθηκαν GREEN_VE6 αρχεία στο {input_folder}")
+        return
+
+    log.info("")
+    log.info("=" * 60)
+    log.info("SPLIT FILES BY CODE — month=%s", month)
+    log.info("=" * 60)
+
     for filename in latest_files:
         file_path = os.path.join(input_folder, filename)
         process_file(file_path, producers_df, output_folder)
-    log("split_files_by_code", "Ο διαχωρισμός και η επεξεργασία ολοκληρώθηκαν.")
 
-# ====== ENTRYPOINT ======
-if __name__ == '__main__':
-    month_input = input("Δώσε τον χρονο και τον μήνα σε μορφή YYYY-MM (π.χ. 2025-01): ").strip()
-    if not re.match(r'^\d{4}-(0[1-9]|1[0-2])$', month_input):
-        print("Μη έγκυρη μορφή. Χρησιμοποίησε YYYY-MM (π.χ. 2025-01).")
-    else:
-        split_files_by_code(month_input)
+    log.info("Completed: %d files processed", len(latest_files))
+    print(f"\n✅ Έτοιμο. {len(latest_files)} αρχεία επεξεργάστηκαν → {output_folder}/")
+
+
+# ===== Entrypoint =====
+
+if __name__ == "__main__":
+    month_input = input("Δώσε μήνα (YYYY-MM): ").strip()
+    if not re.match(r"^\d{4}-(0[1-9]|1[0-2])$", month_input):
+        print("Μη έγκυρη μορφή. Παράδειγμα: 2025-01")
+        sys.exit(1)
+    split_files_by_code(month_input)
