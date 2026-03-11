@@ -9357,3 +9357,1254 @@
 2026-03-06 20:14:42 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-02.xlsx
 2026-03-06 20:14:43 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΚΑΡΤΣΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_2026-02.pdf
 2026-03-06 20:14:44 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:47:49 | MONTHLY.production.load_producers | INFO | Loaded 79 producers
+2026-03-09 19:47:50 | MONTHLY.dam_loader.load_dam_quarterly_endtime | INFO | DAM 15' rows after filters: 2688 for 2026-02
+2026-03-09 19:47:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:47:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:47:50 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΘΕΣΣΑΛΙΚΗ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΑΡΑΛΑΡΙ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv)
+2026-03-09 19:47:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:47:50 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv: 23428 rows
+2026-03-09 19:47:50 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:47:50 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:47:50 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.xlsx
+2026-03-09 19:48:02 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.pdf
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv)
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:03 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv: 1924 rows
+2026-03-09 19:48:03 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΜΑΡΜΑΡΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv)
+2026-03-09 19:48:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:03 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv: 23428 rows
+2026-03-09 19:48:03 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:03 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:03 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.xlsx
+2026-03-09 19:48:08 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.pdf
+2026-03-09 19:48:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΤΣΟΥΛΗ ΤΡΥΠΑ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv)
+2026-03-09 19:48:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv: 23428 rows
+2026-03-09 19:48:09 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:09 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:09 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.xlsx
+2026-03-09 19:48:27 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.pdf
+2026-03-09 19:48:28 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:28 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:28 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:28 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΤΡΑΝΗ ΠΑΤΛΙΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv)
+2026-03-09 19:48:28 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:28 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv: 23428 rows
+2026-03-09 19:48:28 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:28 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:28 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.xlsx
+2026-03-09 19:48:32 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.pdf
+2026-03-09 19:48:32 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:32 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:32 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:32 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ (ΑΛΩΝΙΑ)  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv)
+2026-03-09 19:48:32 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:32 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv: 5760 rows
+2026-03-09 19:48:32 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:32 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:32 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.xlsx
+2026-03-09 19:48:37 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.pdf
+2026-03-09 19:48:38 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:38 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:38 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:38 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv)
+2026-03-09 19:48:38 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:38 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv: 5380 rows
+2026-03-09 19:48:38 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:38 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:38 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx
+2026-03-09 19:48:44 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.pdf
+2026-03-09 19:48:45 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:45 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:45 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:45 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (309)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv)
+2026-03-09 19:48:45 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:45 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv: 2788 rows
+2026-03-09 19:48:45 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:45 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:45 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.xlsx
+2026-03-09 19:48:51 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.pdf
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv)
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv: 2500 rows
+2026-03-09 19:48:52 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 26304 rows
+2026-03-09 19:48:52 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | PRODUCER: HYDROGARDENS Ι.Κ.Ε  (ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv)
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv: 5856 rows
+2026-03-09 19:48:52 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΒΩΒΟΥ  (ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv)
+2026-03-09 19:48:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:52 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv: 26408 rows
+2026-03-09 19:48:52 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:52 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:52 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.xlsx
+2026-03-09 19:48:58 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.pdf
+2026-03-09 19:48:59 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:59 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:48:59 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:59 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ Α.Ε.  (ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv)
+2026-03-09 19:48:59 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:48:59 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv: 5760 rows
+2026-03-09 19:48:59 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:48:59 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:48:59 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.xlsx
+2026-03-09 19:49:05 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.pdf
+2026-03-09 19:49:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:06 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΟΡΟΜΗΛΑΣ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv)
+2026-03-09 19:49:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:06 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv: 23428 rows
+2026-03-09 19:49:06 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:06 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:06 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.xlsx
+2026-03-09 19:49:09 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.pdf
+2026-03-09 19:49:10 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:10 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:10 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:10 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (164)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv)
+2026-03-09 19:49:10 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:10 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv: 2788 rows
+2026-03-09 19:49:10 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:10 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:10 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.xlsx
+2026-03-09 19:49:15 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.pdf
+2026-03-09 19:49:15 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:15 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:15 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:15 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΡΟΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:49:15 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:15 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 20068 rows
+2026-03-09 19:49:15 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:15 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:15 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:49:22 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.pdf
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERCO ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ - ΛΟΥΝΤΡΑ  (ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv)
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:23 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv: 5856 rows
+2026-03-09 19:49:23 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (168)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv)
+2026-03-09 19:49:23 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:23 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv: 2788 rows
+2026-03-09 19:49:23 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:23 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:23 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.xlsx
+2026-03-09 19:49:26 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.pdf
+2026-03-09 19:49:26 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:26 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:26 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:26 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΑΘΑΝΑΣΙΟΥ  (ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv)
+2026-03-09 19:49:26 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:26 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv: 14408 rows
+2026-03-09 19:49:26 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:26 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:26 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.xlsx
+2026-03-09 19:49:36 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.pdf
+2026-03-09 19:49:36 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:36 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:36 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:36 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv)
+2026-03-09 19:49:36 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:36 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv: 5760 rows
+2026-03-09 19:49:36 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:36 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:36 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.xlsx
+2026-03-09 19:49:41 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.pdf
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:41 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 2880 rows
+2026-03-09 19:49:41 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | PRODUCER: Δ.ΙΑΚΩΒΑΚΗΣ & ΣΙΑ Ε.Ε. - ΖΑΜΠΑΡΔΙΚΙ Β  (ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv)
+2026-03-09 19:49:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:41 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv: 23428 rows
+2026-03-09 19:49:41 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:41 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:42 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.xlsx
+2026-03-09 19:49:45 | MONTHLY.production.load_producers | INFO | Loaded 79 producers
+2026-03-09 19:49:45 | MONTHLY.dam_loader.load_dam_quarterly_endtime | INFO | DAM 15' rows after filters: 2688 for 2026-02
+2026-03-09 19:49:45 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:45 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:45 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΘΕΣΣΑΛΙΚΗ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΑΡΑΛΑΡΙ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv)
+2026-03-09 19:49:45 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:45 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv: 23428 rows
+2026-03-09 19:49:45 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:45 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:45 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.xlsx
+2026-03-09 19:49:47 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.pdf
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv)
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:47 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv: 1924 rows
+2026-03-09 19:49:47 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΜΑΡΜΑΡΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv)
+2026-03-09 19:49:47 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:47 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv: 23428 rows
+2026-03-09 19:49:47 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:47 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:47 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.xlsx
+2026-03-09 19:49:49 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.pdf
+2026-03-09 19:49:50 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.pdf
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΤΣΟΥΛΗ ΤΡΥΠΑ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv)
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:50 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv: 23428 rows
+2026-03-09 19:49:50 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:50 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:50 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.xlsx
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΠΑΛΙΟΥΡΓΙΑΣ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv)
+2026-03-09 19:49:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:50 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv: 23428 rows
+2026-03-09 19:49:50 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:50 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:51 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.xlsx
+2026-03-09 19:49:52 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.pdf
+2026-03-09 19:49:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:52 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:52 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΤΡΑΝΗ ΠΑΤΛΙΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv)
+2026-03-09 19:49:52 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:52 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv: 23428 rows
+2026-03-09 19:49:52 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:52 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:52 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.xlsx
+2026-03-09 19:49:54 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.pdf
+2026-03-09 19:49:54 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:54 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:54 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:54 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ (ΑΛΩΝΙΑ)  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv)
+2026-03-09 19:49:54 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:54 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv: 5760 rows
+2026-03-09 19:49:54 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:54 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:54 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.xlsx
+2026-03-09 19:49:56 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.pdf
+2026-03-09 19:49:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv)
+2026-03-09 19:49:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:56 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv: 5380 rows
+2026-03-09 19:49:56 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:56 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:57 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx
+2026-03-09 19:49:58 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.pdf
+2026-03-09 19:49:58 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:58 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:49:58 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:58 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (309)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv)
+2026-03-09 19:49:58 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:49:59 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv: 2788 rows
+2026-03-09 19:49:59 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:49:59 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:49:59 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.xlsx
+2026-03-09 19:50:00 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.pdf
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv)
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv: 2500 rows
+2026-03-09 19:50:01 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 26304 rows
+2026-03-09 19:50:01 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: HYDROGARDENS Ι.Κ.Ε  (ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv)
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv: 5856 rows
+2026-03-09 19:50:01 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΒΩΒΟΥ  (ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv)
+2026-03-09 19:50:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv: 26408 rows
+2026-03-09 19:50:01 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:01 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:01 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.xlsx
+2026-03-09 19:50:02 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.pdf
+2026-03-09 19:50:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:03 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ Α.Ε.  (ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv)
+2026-03-09 19:50:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:03 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv: 5760 rows
+2026-03-09 19:50:03 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:03 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:03 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.xlsx
+2026-03-09 19:50:04 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.pdf
+2026-03-09 19:50:05 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:05 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:05 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:05 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΟΡΟΜΗΛΑΣ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv)
+2026-03-09 19:50:05 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:05 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv: 23428 rows
+2026-03-09 19:50:05 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:05 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:05 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.xlsx
+2026-03-09 19:50:06 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.pdf
+2026-03-09 19:50:07 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:07 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:07 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:07 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (164)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv)
+2026-03-09 19:50:07 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:07 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv: 2788 rows
+2026-03-09 19:50:07 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:07 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:07 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.xlsx
+2026-03-09 19:50:08 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.pdf
+2026-03-09 19:50:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΡΟΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:50:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 20068 rows
+2026-03-09 19:50:09 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:09 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:09 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:50:10 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.pdf
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERCO ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ - ΛΟΥΝΤΡΑ  (ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv)
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:11 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv: 5856 rows
+2026-03-09 19:50:11 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (168)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv)
+2026-03-09 19:50:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:11 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv: 2788 rows
+2026-03-09 19:50:11 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:11 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:11 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.xlsx
+2026-03-09 19:50:12 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.pdf
+2026-03-09 19:50:13 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:13 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:13 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:13 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΑΘΑΝΑΣΙΟΥ  (ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv)
+2026-03-09 19:50:13 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:13 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv: 14408 rows
+2026-03-09 19:50:13 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:13 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:13 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.xlsx
+2026-03-09 19:50:14 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.pdf
+2026-03-09 19:50:15 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:15 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:15 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:15 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv)
+2026-03-09 19:50:15 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:15 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv: 5760 rows
+2026-03-09 19:50:15 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:15 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:15 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.xlsx
+2026-03-09 19:50:16 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.pdf
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:17 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 2880 rows
+2026-03-09 19:50:17 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | PRODUCER: Δ.ΙΑΚΩΒΑΚΗΣ & ΣΙΑ Ε.Ε. - ΖΑΜΠΑΡΔΙΚΙ Β  (ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv)
+2026-03-09 19:50:17 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:17 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv: 23428 rows
+2026-03-09 19:50:17 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:17 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:17 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.xlsx
+2026-03-09 19:50:19 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.pdf
+2026-03-09 19:50:19 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:19 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:19 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:19 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΠΑΛΙΟΥΡΓΙΑΣ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv)
+2026-03-09 19:50:19 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:19 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv: 23428 rows
+2026-03-09 19:50:19 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:19 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:19 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.xlsx
+2026-03-09 19:50:24 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.pdf
+2026-03-09 19:50:25 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:25 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:25 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:25 | MONTHLY.timologia.timologia | INFO | PRODUCER: PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.(181)  (ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv)
+2026-03-09 19:50:25 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:25 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv: 2788 rows
+2026-03-09 19:50:25 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:25 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:25 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.xlsx
+2026-03-09 19:50:30 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.pdf
+2026-03-09 19:50:31 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:31 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:31 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:31 | MONTHLY.timologia.timologia | INFO | PRODUCER: PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.(181)  (ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv)
+2026-03-09 19:50:31 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:31 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv: 2788 rows
+2026-03-09 19:50:31 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:31 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:31 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.xlsx
+2026-03-09 19:50:34 | MONTHLY.production.load_producers | INFO | Loaded 79 producers
+2026-03-09 19:50:34 | MONTHLY.dam_loader.load_dam_quarterly_endtime | INFO | DAM 15' rows after filters: 2688 for 2026-02
+2026-03-09 19:50:34 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:34 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:34 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΘΕΣΣΑΛΙΚΗ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΑΡΑΛΑΡΙ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv)
+2026-03-09 19:50:34 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:34 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv: 23428 rows
+2026-03-09 19:50:34 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:34 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:34 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.xlsx
+2026-03-09 19:50:34 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.pdf
+2026-03-09 19:50:35 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:35 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:50:35 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:35 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:35 | MONTHLY.timologia.timologia | INFO | PRODUCER: AMYKLAION ENERGY IKE  (ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv)
+2026-03-09 19:50:35 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:36 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv: 29284 rows
+2026-03-09 19:50:36 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:36 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:36 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx
+2026-03-09 19:50:36 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.pdf
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv)
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:37 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv: 1924 rows
+2026-03-09 19:50:37 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΜΑΡΜΑΡΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv)
+2026-03-09 19:50:37 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:37 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv: 23428 rows
+2026-03-09 19:50:37 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:37 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:37 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.xlsx
+2026-03-09 19:50:38 | MONTHLY.production.load_producers | INFO | Loaded 79 producers
+2026-03-09 19:50:38 | MONTHLY.dam_loader.load_dam_quarterly_endtime | INFO | DAM 15' rows after filters: 2688 for 2026-02
+2026-03-09 19:50:38 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:38 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:38 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΘΕΣΣΑΛΙΚΗ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΑΡΑΛΑΡΙ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv)
+2026-03-09 19:50:38 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:38 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv: 23428 rows
+2026-03-09 19:50:38 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:38 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.pdf
+2026-03-09 19:50:38 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:39 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.xlsx
+2026-03-09 19:50:39 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:39 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:39 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:39 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΤΣΟΥΛΗ ΤΡΥΠΑ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv)
+2026-03-09 19:50:39 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:39 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv: 23428 rows
+2026-03-09 19:50:39 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:39 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:39 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.xlsx
+2026-03-09 19:50:40 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.pdf
+2026-03-09 19:50:40 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:40 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:40 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:40 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv)
+2026-03-09 19:50:40 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:40 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv: 4804 rows
+2026-03-09 19:50:40 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:40 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:41 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.pdf
+2026-03-09 19:50:41 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.xlsx
+2026-03-09 19:50:41 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.pdf
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv)
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:41 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv: 1924 rows
+2026-03-09 19:50:41 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΜΑΡΜΑΡΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv)
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:41 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv: 23428 rows
+2026-03-09 19:50:41 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:41 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:41 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.xlsx
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΤΡΑΝΗ ΠΑΤΛΙΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv)
+2026-03-09 19:50:41 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:42 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv: 23428 rows
+2026-03-09 19:50:42 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:42 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:42 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.xlsx
+2026-03-09 19:50:43 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.pdf
+2026-03-09 19:50:43 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:43 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:43 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:43 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΤΣΟΥΛΗ ΤΡΥΠΑ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv)
+2026-03-09 19:50:43 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:43 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.pdf
+2026-03-09 19:50:43 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv: 23428 rows
+2026-03-09 19:50:43 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:44 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:44 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.xlsx
+2026-03-09 19:50:44 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:44 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:44 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:44 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ (ΑΛΩΝΙΑ)  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv)
+2026-03-09 19:50:44 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:44 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv: 5760 rows
+2026-03-09 19:50:44 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:44 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:44 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.xlsx
+2026-03-09 19:50:45 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.pdf
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΤΡΑΝΗ ΠΑΤΛΙΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv)
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:46 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.pdf
+2026-03-09 19:50:46 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv: 23428 rows
+2026-03-09 19:50:46 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:46 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:46 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.xlsx
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv)
+2026-03-09 19:50:46 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:46 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv: 5380 rows
+2026-03-09 19:50:46 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:46 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:46 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx
+2026-03-09 19:50:47 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.pdf
+2026-03-09 19:50:48 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.pdf
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ (ΑΛΩΝΙΑ)  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv)
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:48 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv: 5760 rows
+2026-03-09 19:50:48 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:48 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:48 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.xlsx
+2026-03-09 19:50:48 | MONTHLY.production.load_producers | INFO | Loaded 79 producers
+2026-03-09 19:50:48 | MONTHLY.dam_loader.load_dam_quarterly_endtime | INFO | DAM 15' rows after filters: 2688 for 2026-02
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΘΕΣΣΑΛΙΚΗ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΑΡΑΛΑΡΙ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv)
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:48 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ.csv: 23428 rows
+2026-03-09 19:50:48 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:48 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (309)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv)
+2026-03-09 19:50:48 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:48 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv: 2788 rows
+2026-03-09 19:50:48 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:48 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:49 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.xlsx
+2026-03-09 19:50:49 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.xlsx
+2026-03-09 19:50:50 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.pdf
+2026-03-09 19:50:50 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.pdf
+2026-03-09 19:50:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:50 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv)
+2026-03-09 19:50:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:50 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΑΡΑΛΑΡΙ_2026-02.pdf
+2026-03-09 19:50:50 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv: 5380 rows
+2026-03-09 19:50:50 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:50 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:50 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv)
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv: 2500 rows
+2026-03-09 19:50:51 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 26304 rows
+2026-03-09 19:50:51 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | PRODUCER: HYDROGARDENS Ι.Κ.Ε  (ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv)
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv: 5856 rows
+2026-03-09 19:50:51 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΒΩΒΟΥ  (ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv)
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv)
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε..csv: 1924 rows
+2026-03-09 19:50:51 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΜΑΡΜΑΡΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv)
+2026-03-09 19:50:51 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:51 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv: 26408 rows
+2026-03-09 19:50:51 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:51 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:51 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ.csv: 23428 rows
+2026-03-09 19:50:51 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:51 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:51 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.xlsx
+2026-03-09 19:50:52 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.pdf
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (309)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv)
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:53 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv: 2788 rows
+2026-03-09 19:50:53 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:53 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:53 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.xlsx
+2026-03-09 19:50:53 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΜΑΡΜΑΡΑ_2026-02.pdf
+2026-03-09 19:50:53 | MONTHLY.excel_export.generate_invoice_excel | ERROR | Excel generation failed for 4    ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΒΩΒΟΥ
+Name: Εταιρεία, dtype: object: cannot identify image file '/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/daily_prod_plot.png'
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ Α.Ε.  (ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv)
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:53 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv: 5760 rows
+2026-03-09 19:50:53 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΤΣΟΥΛΗ ΤΡΥΠΑ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv)
+2026-03-09 19:50:53 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:53 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:53 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ.csv: 23428 rows
+2026-03-09 19:50:53 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:54 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:54 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.xlsx
+2026-03-09 19:50:54 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.xlsx
+2026-03-09 19:50:55 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.pdf
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv)
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv: 2500 rows
+2026-03-09 19:50:56 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 26304 rows
+2026-03-09 19:50:56 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: HYDROGARDENS Ι.Κ.Ε  (ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv)
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv: 5856 rows
+2026-03-09 19:50:56 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΒΩΒΟΥ  (ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv)
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv: 26408 rows
+2026-03-09 19:50:56 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:56 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.pdf
+2026-03-09 19:50:56 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΤΣΟΥΛΗ_ΤΡΥΠΑ_2026-02.pdf
+2026-03-09 19:50:56 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:56 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.xlsx
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΟΡΟΜΗΛΑΣ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv)
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΤΡΑΝΗ ΠΑΤΛΙΑ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv)
+2026-03-09 19:50:56 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:56 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv: 23428 rows
+2026-03-09 19:50:56 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:57 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:57 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ.csv: 23428 rows
+2026-03-09 19:50:57 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:57 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:57 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.xlsx
+2026-03-09 19:50:57 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.xlsx
+2026-03-09 19:50:58 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.pdf
+2026-03-09 19:50:58 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:58 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:58 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:58 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ Α.Ε.  (ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv)
+2026-03-09 19:50:58 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:58 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv: 5760 rows
+2026-03-09 19:50:58 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:58 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:58 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.pdf
+2026-03-09 19:50:58 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΤΡΑΝΗ_ΠΑΤΛΙΑ_2026-02.pdf
+2026-03-09 19:50:58 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.xlsx
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (164)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv)
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ (ΑΛΩΝΙΑ)  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv)
+2026-03-09 19:50:59 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:50:59 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv: 2788 rows
+2026-03-09 19:50:59 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ).csv: 5760 rows
+2026-03-09 19:50:59 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:59 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:50:59 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:59 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:50:59 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.xlsx
+2026-03-09 19:50:59 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.xlsx
+2026-03-09 19:51:00 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.pdf
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΟΡΟΜΗΛΑΣ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv)
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv: 23428 rows
+2026-03-09 19:51:01 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:01 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:01 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.pdf
+2026-03-09 19:51:01 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_(ΑΛΩΝΙΑ)_2026-02.pdf
+2026-03-09 19:51:01 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.xlsx
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΡΟΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 20068 rows
+2026-03-09 19:51:01 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv)
+2026-03-09 19:51:01 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:01 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv: 5380 rows
+2026-03-09 19:51:01 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:01 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:01 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:01 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:51:01 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx
+2026-03-09 19:51:03 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.pdf
+2026-03-09 19:51:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:03 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:03 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (164)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv)
+2026-03-09 19:51:03 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:03 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv: 2788 rows
+2026-03-09 19:51:03 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:03 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:03 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.xlsx
+2026-03-09 19:51:03 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.pdf
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERCO ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ - ΛΟΥΝΤΡΑ  (ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv)
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:04 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv: 5856 rows
+2026-03-09 19:51:04 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (168)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv)
+2026-03-09 19:51:04 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:04 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv: 2788 rows
+2026-03-09 19:51:04 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:04 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:04 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.xlsx
+2026-03-09 19:51:05 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.pdf
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΡΟΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:06 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 20068 rows
+2026-03-09 19:51:06 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:06 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:06 | MONTHLY.excel_export.export_to_pdf_with_excel | WARNING | wb.to_pdf failed: Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 15531727)).workbooks['ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx'].save(in_='Macintosh HD:Users:greenvalue:ENHMERWTIKA-SHMEIWMATA:ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ:2026-02:PDF:BIOGAS ENERGY Α.Ε:ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.pdf', as_=k.PDF_file_format)
+2026-03-09 19:51:06 | MONTHLY.excel_export.export_to_pdf_with_excel | WARNING | Excel export produced no/empty PDF: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/BIOGAS ENERGY Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.pdf
+2026-03-09 19:51:06 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.pdf
+2026-03-09 19:51:06 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | ERROR | PDF export failed: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-02.xlsx | method=excel-empty
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (309)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv)
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:06 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309).csv: 2788 rows
+2026-03-09 19:51:06 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΑΘΑΝΑΣΙΟΥ  (ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv)
+2026-03-09 19:51:06 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:07 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv: 14408 rows
+2026-03-09 19:51:07 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:07 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:07 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:07 | MONTHLY.excel_export._add_daily_plot | WARNING | Plot insertion failed: cannot identify image file '/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/daily_prod_plot.png'
+2026-03-09 19:51:07 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.xlsx
+2026-03-09 19:51:07 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.xlsx
+2026-03-09 19:51:08 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.pdf
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERCO ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ - ΛΟΥΝΤΡΑ  (ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv)
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:08 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv: 5856 rows
+2026-03-09 19:51:08 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (168)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv)
+2026-03-09 19:51:08 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:08 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv: 2788 rows
+2026-03-09 19:51:08 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:08 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:08 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.xlsx
+2026-03-09 19:51:08 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(309)_2026-02.pdf
+2026-03-09 19:51:09 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.pdf
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: BIOGAS ENERGY Α.Ε.  (ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv)
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε..csv: 2500 rows
+2026-03-09 19:51:09 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΥΔΡΟΕΝΕΡΓΕΙΑ ΑΙΓΙΟΥ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv)
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΥΔΡΟΕΝΕΡΓΕΙΑ_ΑΙΓΙΟΥ_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 26304 rows
+2026-03-09 19:51:09 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: HYDROGARDENS Ι.Κ.Ε  (ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv)
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv: 5760 rows
+2026-03-09 19:51:09 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROGARDENS_Ι.Κ.Ε.csv: 5856 rows
+2026-03-09 19:51:09 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΒΩΒΟΥ  (ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv)
+2026-03-09 19:51:09 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:09 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:09 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ.csv: 26408 rows
+2026-03-09 19:51:09 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:09 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:09 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.xlsx
+2026-03-09 19:51:09 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.xlsx
+2026-03-09 19:51:10 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168)_2026-02.pdf
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΑΘΑΝΑΣΙΟΥ  (ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv)
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:11 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv: 14408 rows
+2026-03-09 19:51:11 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:11 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:11 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.pdf
+2026-03-09 19:51:11 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.xlsx
+2026-03-09 19:51:11 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΒΩΒΟΥ_2026-02.pdf
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:11 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 2880 rows
+2026-03-09 19:51:11 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | PRODUCER: Δ.ΙΑΚΩΒΑΚΗΣ & ΣΙΑ Ε.Ε. - ΖΑΜΠΑΡΔΙΚΙ Β  (ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv)
+2026-03-09 19:51:11 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:11 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv: 23428 rows
+2026-03-09 19:51:11 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:12 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:12 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:12 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:12 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:12 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ Α.Ε.  (ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv)
+2026-03-09 19:51:12 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:12 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε.csv: 5760 rows
+2026-03-09 19:51:12 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:12 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:12 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.xlsx
+2026-03-09 19:51:12 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.xlsx
+2026-03-09 19:51:13 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.pdf
+2026-03-09 19:51:13 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:13 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:13 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:13 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv)
+2026-03-09 19:51:13 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:13 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv: 5760 rows
+2026-03-09 19:51:13 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:13 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:13 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.pdf
+2026-03-09 19:51:13 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΒΑΓΙΑΣ ΤΡΟΦΙΜΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΒΑΓΙΑΣ_ΤΡΟΦΙΜΑ_Α.Ε_2026-02.pdf
+2026-03-09 19:51:13 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.xlsx
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΠΑΛΙΟΥΡΓΙΑΣ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv)
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ Π.Ε. - ΚΟΡΟΜΗΛΑΣ  (ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv)
+2026-03-09 19:51:14 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:14 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv: 23428 rows
+2026-03-09 19:51:14 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:14 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ.csv: 23428 rows
+2026-03-09 19:51:14 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:14 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:14 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:14 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.xlsx
+2026-03-09 19:51:14 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.xlsx
+2026-03-09 19:51:15 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.pdf
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 2880 rows
+2026-03-09 19:51:16 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | PRODUCER: Δ.ΙΑΚΩΒΑΚΗΣ & ΣΙΑ Ε.Ε. - ΖΑΜΠΑΡΔΙΚΙ Β  (ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv)
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv: 23428 rows
+2026-03-09 19:51:16 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:16 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:16 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.pdf
+2026-03-09 19:51:16 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΗΛΙΑΧΤΙΔΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ_Π.Ε._-_ΚΟΡΟΜΗΛΑΣ_2026-02.pdf
+2026-03-09 19:51:16 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.xlsx
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (164)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv)
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | PRODUCER: PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.(181)  (ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv)
+2026-03-09 19:51:16 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:16 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164).csv: 2788 rows
+2026-03-09 19:51:16 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv: 2788 rows
+2026-03-09 19:51:16 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:16 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:16 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:16 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:17 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.xlsx
+2026-03-09 19:51:17 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.xlsx
+2026-03-09 19:51:17 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.pdf
+2026-03-09 19:51:18 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:18 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:18 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:18 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΠΑΛΙΟΥΡΓΙΑΣ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv)
+2026-03-09 19:51:18 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:18 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv: 23428 rows
+2026-03-09 19:51:18 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:18 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:18 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(164)_2026-02.pdf
+2026-03-09 19:51:18 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.xlsx
+2026-03-09 19:51:18 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.pdf
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΡΟΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:19 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 20068 rows
+2026-03-09 19:51:19 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | PRODUCER: AMYKLAION ENERGY IKE  (ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv)
+2026-03-09 19:51:19 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:19 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:19 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv: 29284 rows
+2026-03-09 19:51:19 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:19 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:19 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:51:19 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx
+2026-03-09 19:51:20 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.pdf
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | PRODUCER: PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.(181)  (ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv)
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:21 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv: 2788 rows
+2026-03-09 19:51:21 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:21 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:21 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.xlsx
+2026-03-09 19:51:21 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΡΟΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΡΟΗ_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.pdf
+2026-03-09 19:51:21 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.pdf
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERCO ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ - ΛΟΥΝΤΡΑ  (ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv)
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:21 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERCO_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΠΕΡΙΟΡΙΣΜΕΝΗΣ_ΕΥΘΥΝΗΣ_-_ΛΟΥΝΤΡΑ.csv: 5856 rows
+2026-03-09 19:51:21 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | PRODUCER: LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (168)  (ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv)
+2026-03-09 19:51:21 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:21 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_LIVERSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._(168).csv: 2788 rows
+2026-03-09 19:51:21 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv)
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:22 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:22 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv: 4804 rows
+2026-03-09 19:51:22 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:22 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:22 | MONTHLY.excel_export.generate_invoice_excel | ERROR | Excel generation failed for 69    LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. (168)
+Name: Εταιρεία, dtype: object: cannot identify image file '/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/daily_prod_plot.png'
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΑΘΑΝΑΣΙΟΥ  (ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv)
+2026-03-09 19:51:22 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:22 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ.csv: 14408 rows
+2026-03-09 19:51:22 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:22 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.xlsx
+2026-03-09 19:51:22 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:22 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.xlsx
+2026-03-09 19:51:23 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.pdf
+2026-03-09 19:51:23 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:23 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:23 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:23 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:23 | MONTHLY.timologia.timologia | INFO | PRODUCER: AMYKLAION ENERGY IKE  (ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv)
+2026-03-09 19:51:23 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:24 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv: 29284 rows
+2026-03-09 19:51:24 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:24 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:24 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx
+2026-03-09 19:51:24 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΠΑΛΗΟΥ ΕΥΑΓΓΕΛΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΛΗΟΥ_ΕΥΑΓΓΕΛΙΑ_ΤΟΥ_ΑΘΑΝΑΣΙΟΥ_2026-02.pdf
+2026-03-09 19:51:24 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:24 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:24 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:24 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv)
+2026-03-09 19:51:24 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:24 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.csv: 5760 rows
+2026-03-09 19:51:24 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:24 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:25 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.xlsx
+2026-03-09 19:51:25 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.pdf
+2026-03-09 19:51:26 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:26 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:26 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:26 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv)
+2026-03-09 19:51:26 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:26 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv: 4804 rows
+2026-03-09 19:51:26 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:26 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:26 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.xlsx
+2026-03-09 19:51:26 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/MEDIL/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε_2026-02.pdf
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | PRODUCER: MEDIL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.  (ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv)
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:27 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_MEDIL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε..csv: 2880 rows
+2026-03-09 19:51:27 | MONTHLY.production.filter_monthly_data | DEBUG | No rows for month 2026-02
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | PRODUCER: Δ.ΙΑΚΩΒΑΚΗΣ & ΣΙΑ Ε.Ε. - ΖΑΜΠΑΡΔΙΚΙ Β  (ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv)
+2026-03-09 19:51:27 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:27 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β.csv: 23428 rows
+2026-03-09 19:51:27 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:27 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:27 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.xlsx
+2026-03-09 19:51:28 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/Δ. ΙΑΚΩΒΑΚΗΣ ΚΑΙ ΣΙΑ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_Δ.ΙΑΚΩΒΑΚΗΣ_&_ΣΙΑ_Ε.Ε._-_ΖΑΜΠΑΡΔΙΚΙ_Β_2026-02.pdf
+2026-03-09 19:51:29 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:29 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:29 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:29 | MONTHLY.timologia.timologia | INFO | PRODUCER: AT SOLUTIONS IKE - ΠΑΛΙΟΥΡΓΙΑΣ  (ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv)
+2026-03-09 19:51:29 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:29 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ.csv: 23428 rows
+2026-03-09 19:51:29 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:29 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:29 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.xlsx
+2026-03-09 19:51:30 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AT SOLUTIONS, ΙΤΣΙΑ, ENERCO/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AT_SOLUTIONS_IKE_-_ΠΑΛΙΟΥΡΓΙΑΣ_2026-02.pdf
+2026-03-09 19:51:31 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:31 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:31 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:31 | MONTHLY.timologia.timologia | INFO | PRODUCER: PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.(181)  (ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv)
+2026-03-09 19:51:31 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:31 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181).csv: 2788 rows
+2026-03-09 19:51:31 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:31 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:31 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.xlsx
+2026-03-09 19:51:33 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.pdf
+2026-03-09 19:51:33 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:33 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:33 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:33 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:33 | MONTHLY.timologia.timologia | INFO | PRODUCER: AMYKLAION ENERGY IKE  (ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv)
+2026-03-09 19:51:33 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:33 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv: 29284 rows
+2026-03-09 19:51:33 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:33 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:33 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx
+2026-03-09 19:51:35 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/AMYKLAION ENERGY/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.pdf
+2026-03-09 19:51:35 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:35 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:35 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:35 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv)
+2026-03-09 19:51:35 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:35 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv: 4804 rows
+2026-03-09 19:51:35 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:35 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:35 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.xlsx
+2026-03-09 19:51:42 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/LIVERSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & PONSOL ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε & ΦΒ ΠΑΡΚΟ ΜΟΔΙΟΥ ΜΟΝ ΑΕ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_PONSOL_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε.(181)_2026-02.pdf
+2026-03-09 19:51:42 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:42 | MONTHLY.timologia.timologia | WARNING | No producer match for: ΠΑΡΑΓΩΓΗ_ΕΝΕΡΓΕΙΑΚΗ_ΚΟΙΝΟΤΗΤΑ_ΘΕΣΣΑΛΙΚΗ_ΗΛΙΑΧΤΙΔΑ.csv
+2026-03-09 19:51:42 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:42 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:42 | MONTHLY.timologia.timologia | INFO | PRODUCER: AMYKLAION ENERGY IKE  (ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv)
+2026-03-09 19:51:42 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:42 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_AMYKLAION_ENERGY_IKE.csv: 29284 rows
+2026-03-09 19:51:42 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:42 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:42 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx
+2026-03-09 19:51:50 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/SERVICE GAS ONE ΜΟΝ. Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.pdf
+2026-03-09 19:51:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:50 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:51:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:50 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2 ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:51:50 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:51:50 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 8356 rows
+2026-03-09 19:51:50 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:51:50 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:51:51 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:51:59 | MONTHLY.excel_export.export_to_pdf_with_excel | ERROR | PDF export failed: Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 15699704)).open_workbook(workbook_file_name='/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
+2026-03-09 19:52:00 | MONTHLY.timologia.timologia | ERROR | PDF export failed: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx | method=excel-error:Command failed:
+		OSERROR: -50
+		MESSAGE: Parameter error.
+		COMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 15699704)).open_workbook(workbook_file_name='/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_AMYKLAION_ENERGY_IKE_2026-02.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)
+2026-03-09 19:52:00 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:00 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:00 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:00 | MONTHLY.timologia.timologia | INFO | PRODUCER: SERVICE GAS ONE ΜΟΝ. Α.Ε.  (ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv)
+2026-03-09 19:52:00 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:00 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv: 4804 rows
+2026-03-09 19:52:00 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:52:00 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:52:00 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.xlsx
+2026-03-09 19:52:02 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/SERVICE GAS ONE ΜΟΝ. Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.pdf
+2026-03-09 19:52:02 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:02 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:02 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:02 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2 ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:52:02 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:02 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 8356 rows
+2026-03-09 19:52:02 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:52:02 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:52:02 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:52:10 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/SERVICE GAS ONE ΜΟΝ. Α.Ε/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-02.pdf
+2026-03-09 19:52:10 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:10 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:10 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:10 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2 ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ  (ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv)
+2026-03-09 19:52:10 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:10 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 8356 rows
+2026-03-09 19:52:10 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:52:10 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:52:11 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.xlsx
+2026-03-09 19:52:17 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 2/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-02.pdf
+2026-03-09 19:52:18 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:18 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:18 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:18 | MONTHLY.timologia.timologia | INFO | PRODUCER: ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε. - ΧΑΝΙ ΚΟΤΣΙΡΙ   (ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ.csv)
+2026-03-09 19:52:18 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:18 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ.csv: 26408 rows
+2026-03-09 19:52:18 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:52:18 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:52:18 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ_2026-02.xlsx
+2026-03-09 19:52:22 | MONTHLY.excel_export.export_to_pdf_with_excel | DEBUG | PDF exported via Excel: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/PDF/ENERGY PLAN ΜΟΝΟΠΡΟΣΩΠΗ/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ENERGY_PLAN_ΜΟΝΟΠΡΟΣΩΠΗ_Ι.Κ.Ε._-_ΧΑΝΙ_ΚΟΤΣΙΡΙ_2026-02.pdf
+2026-03-09 19:52:22 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:22 | MONTHLY.timologia.timologia | INFO | 
+2026-03-09 19:52:22 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:22 | MONTHLY.timologia.timologia | INFO | PRODUCER: ΠΑΡΙΣΗ ΑΙΚΑΤΕΡΙΝΗ  (ΠΑΡΑΓΩΓΗ_ΠΑΡΙΣΗ_ΑΙΚΑΤΕΡΙΝΗ.csv)
+2026-03-09 19:52:22 | MONTHLY.timologia.timologia | INFO | ============================================================
+2026-03-09 19:52:22 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΠΑΡΙΣΗ_ΑΙΚΑΤΕΡΙΝΗ.csv: 16616 rows
+2026-03-09 19:52:22 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2688 rows for month=2026-02
+2026-03-09 19:52:22 | MONTHLY.production.calculate_daily_summary_quarterly | INFO | Daily summary: 29 rows for month=2026-02
+2026-03-09 19:52:23 | MONTHLY.excel_export.generate_invoice_excel | INFO | XLSX created: /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ/2026-02/XLSX/ΕΝΗΜΕΡΩΤΙΚΟ_ΣΗΜΕΙΩΜΑ_ΠΑΡΙΣΗ_ΑΙΚΑΤΕΡΙΝΗ_2026-02.xlsx

@@ -80,6 +80,11 @@ def _run_step_3_timologia(month_value: str):
     return _run_command(cmd, env_extra={"PIPE_MONTH": month_value})
 
 
+def _run_step_dam_download():
+    cmd = [sys.executable, str(BASE_DIR / "DAM DOWNLOAD" / "dam_api_download.py")]
+    return _run_command(cmd)
+
+
 def _show_output(title: str, ok: bool, output: str):
     if ok:
         st.success(f"{title}: ΟΚ")
@@ -309,6 +314,38 @@ else:
     today = date.today()
     year, month_num = today.year, today.month
     last_day = monthrange(year, month_num)[1]
+
+st.markdown("---")
+st.subheader("DAM prices: Κατέβασμα τιμών αγοράς")
+dam_left, dam_right = st.columns([1, 1], gap="large")
+with dam_left:
+    st.caption(
+        "Κατέβασε τις τιμές DAM σε αρχείο CSV. "
+        "Το αρχείο αποθηκεύεται στον φάκελο DAM DOWNLOAD/output."
+    )
+    run_dam = st.button("Κατέβασε τιμές DAM", width="stretch")
+    if run_dam:
+        dam_artifacts = [BASE_DIR / "DAM DOWNLOAD" / "output"]
+        with st.spinner("Τρέχει το DAM download..."):
+            ok, output, changed = _execute_step(
+                step_key="step0_dam_download",
+                month_value="GLOBAL",
+                artifacts=dam_artifacts,
+                runner=_run_step_dam_download,
+            )
+        _show_output("Βήμα DAM", ok, output)
+        _show_changed_files(changed, allowed_suffixes={".csv"})
+
+with dam_right:
+    _render_artifacts_panel(
+        step_key="step0_dam_download",
+        title="Διαθέσιμα αρχεία DAM",
+        month_value="GLOBAL",
+        dir_path=BASE_DIR / "DAM DOWNLOAD" / "output",
+        zip_name="dam_prices_output.zip",
+        allowed_suffixes={".csv"},
+        panel_key_suffix="csv",
+    )
 
 st.markdown("---")
 st.subheader("Βήμα 1: Κατέβασμα αρχείων από Modesto")
