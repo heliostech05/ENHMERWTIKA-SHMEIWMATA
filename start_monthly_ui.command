@@ -8,4 +8,4 @@ if [ -d ".venv" ]; then
   source .venv/bin/activate
 fi
 
-exec streamlit run monthly_streamlit_app.py
+exec streamlit run streamlit_app.py

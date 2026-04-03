@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2026-04-03 18:11:29",
+    "step": "weekly_timologia",
+    "period": "2026-03-23__2026-03-29",
+    "ok": false,
+    "artifacts": [
+      "/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13"
+    ],
+    "changed_files": [
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/.DS_Store",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/PDF/HYDROGARDENS Ι.Κ.Ε/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W13.pdf",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/PDF/ΓΑΙΩΕΡΓΑ Κ&Π ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΜΟΝ ΙΚΕ/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W13.pdf",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/PDF/ΣΗΘΥΑ ΘΕΣΣΑΛΟΝΙΚΗΣ 1 ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W13.pdf",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_BIOGAS_ENERGY_Α.Ε_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROGARDENS Ι.Κ.Ε_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΚΑΡΤΣΑ_ΙΚΕ_-_ΛΑΚΚΑ_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W13.xlsx",
+      "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ_2026-W13.xlsx"
+    ],
+    "output_tail": ", notify=None, converter=None, add_to_mru=None, timeout=-1)\nWARNING: Length mismatch on 2026-03-29: prod=91, dam=92, using first 91\nWARNING: Length mismatch on 2026-03-30: prod=4, dam=96, using first 4\nPDF export failed: Command failed:\n\t\tOSERROR: -50\n\t\tMESSAGE: Parameter error.\n\t\tCOMMAND: app('/Applications/Microsoft Excel.app', newinstance=(0, 1692061)).open_workbook(workbook_file_name='/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ_ΕΒΔΟΜΑΔΙΑΙΑ/2026-W13/XLSX/ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_HYDROTHESS_Ι.Κ.Ε_2026-W13.xlsx', update_links=k.do_not_update_links, read_only=None, format=None, password=None, write_reserved_password=None, ignore_read_only_recommended=None, origin=None, delimiter=None, editable=None, notify=None, converter=None, add_to_mru=None, timeout=-1)\nWARNING: Length mismatch on 2026-03-29: prod=91, dam=92, using first 91\nWARNING: Length mismatch on 2026-03-30: prod=4, dam=96, using first 4\nTraceback (most recent call last):\n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/xlwings/main.py\", line 5187, in open\n    impl = self.impl(name)\n           ^^^^^^^^^^^^^^^\n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/xlwings/_xlmac.py\", line 401, in __call__\n    raise KeyError(name_or_index)\nKeyError: 'ΕΒΔΟΜΑΔΙΑΙΟ_ΣΗΜΕΙΩΜΑ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε_2026-W13.xlsx'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<string>\", line 1, in <module>\n  File \"/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/weekly/timologia.py\", line 293, in timologia_weekly\n    ok, how = export_to_pdf(xlsx_path, str(pdf_path))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/weekly/excel_export.py\", line 287, in export_to_pdf\n    else:\n          \n  File \"/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/weekly/excel_export.py\", line 248, in export_to_pdf_with_excel\n    \n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/xlwings/main.py\", line 5194, in open\n    impl = self.impl.open(\n           ^^^^^^^^^^^^^^^\n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/xlwings/_xlmac.py\", line 453, in open\n    self.app.xl.open_workbook(\n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/aeosa/appscript/reference.py\", line 479, in __call__\n    return self.AS_appdata.target().event(self._code, params, atts, codecs=self.AS_appdata).send(timeout, sendflags)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/aeosa/aem/aemsend.py\", line 74, in send\n    replyevent = self._sendproc(self.AEM_event, flags, timeout)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/greenvalue/myenv_new/lib/python3.12/site-packages/aeosa/aem/aemsend.py\", line 23, in sendappleevent\n    return evt.send(flags, timeout)\n           ^^^^^^^^^^^^^^^^^^^^^^^^\nKeyboardInterrupt"
+  },
+  {
+    "timestamp": "2026-04-03 18:46:57",
+    "step": "dam_download",
+    "period": "GLOBAL",
+    "ok": true,
+    "artifacts": [
+      "/Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/DAM DOWNLOAD/output"
+    ],
+    "changed_files": [
+      "DAM DOWNLOAD/output/energy-charts_Electricity_production_and_spot_prices_in_Greece_in_2026.csv"
+    ],
+    "output_tail": "Fetching day-ahead price data for Greece from 2026-01-01 to 2026-04-03...\nData successfully saved to /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/DAM DOWNLOAD/output/energy-charts_Electricity_production_and_spot_prices_in_Greece_in_2026.csv"
+  }
+]

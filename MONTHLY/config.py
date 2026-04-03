@@ -15,7 +15,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 TEMPLATE_PATH = BASE_DIR / "Invoice_GREEN_VALUE_01.xlsx"
-PRODUCERS_PATH = BASE_DIR / "producers.xlsx"
+PRODUCERS_PATH = Path("/Users/greenvalue/Library/CloudStorage/OneDrive-GREENVALUE/Thanos Papathanasiou's files - GREENVALUE/TRADING/producers.xlsx")
+# BASE_DIR / "producers.xlsx"
 PRODUCTION_DIR = BASE_DIR / "ΠΑΡΑΓΩΓΗ"
 OUTPUT_DIR = BASE_DIR / "ΕΝΗΜΕΡΩΤΙΚΑ_ΣΗΜΕΙΩΜΑΤΑ"
 
