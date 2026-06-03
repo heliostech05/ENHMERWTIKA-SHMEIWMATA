@@ -160,6 +160,14 @@ def _show_output(title: str, ok: bool, output: str):
         st.info("Δεν υπήρχε output από την εκτέλεση.")
 
 
+def _arrow_safe_preview_df(df: pd.DataFrame) -> pd.DataFrame:
+    safe_df = df.copy()
+    for col in safe_df.columns:
+        if pd.api.types.is_object_dtype(safe_df[col]):
+            safe_df[col] = safe_df[col].map(lambda value: "" if pd.isna(value) else str(value))
+    return safe_df
+
+
 def _load_history() -> list[dict]:
     if not HISTORY_FILE.exists():
         return []
@@ -499,7 +507,7 @@ with tab_producers:
             try:
                 producers_df = pd.read_excel(PRODUCERS_PATH)
                 st.caption(f"Γραμμές: {len(producers_df)} | Στήλες: {len(producers_df.columns)}")
-                st.dataframe(producers_df, width="stretch", hide_index=True)
+                st.dataframe(_arrow_safe_preview_df(producers_df), width="stretch", hide_index=True)
             except Exception as exc:
                 st.error(f"Αποτυχία ανάγνωσης του producers.xlsx: {exc}")
 
@@ -532,7 +540,7 @@ with tab_production:
         if not production_month_ok:
             st.warning("Δώσε έγκυρο μήνα σε μορφή YYYY-MM.")
 
-        if st.button("Ενημέρωσε το ΠΑΡΑΓΩΓΗ", key="run_production_month", width="stretch"):
+        if st.button("Ενημέρωσε τα αρχεία παραγωγής του καθε πάρκου", key="run_production_month", width="stretch"):
             if not production_month_ok:
                 st.error("Διόρθωσε πρώτα τον μήνα.")
             else:
