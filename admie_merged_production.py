@@ -14,6 +14,8 @@ import logging
 import os
 import re
 import sys
+import zipfile
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
 
@@ -56,15 +58,85 @@ _VE6_PATTERN = re.compile(
 
 # ===== Producer loading =====
 
-def load_producers(filepath):
-    """Φόρτωση producers.xlsx — επιστρέφει DataFrame με stripped Code/Εταιρεία."""
-    try:
-        df = pd.read_excel(filepath, dtype={"Code": str})
-        if "Code" not in df.columns or "Εταιρεία" not in df.columns:
-            raise ValueError("Λείπουν στήλες 'Code' και/ή 'Εταιρεία'")
+def _xlsx_shared_strings(zf):
+    """Διαβάζει shared strings από xlsx χωρίς εξωτερικές εξαρτήσεις."""
+    if "xl/sharedStrings.xml" not in zf.namelist():
+        return []
 
+    ns = {"a": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
+    root = ET.fromstring(zf.read("xl/sharedStrings.xml"))
+    items = []
+    for si in root.findall("a:si", ns):
+        text = "".join(t.text or "" for t in si.iterfind(".//a:t", ns))
+        items.append(text)
+    return items
+
+
+def _xlsx_first_sheet_rows(filepath):
+    """
+    Επιστρέφει rows από το πρώτο sheet ενός xlsx ως λίστες τιμών.
+
+    Χρήσιμο όταν δεν υπάρχει openpyxl στο runtime.
+    """
+    ns = {
+        "a": "http://schemas.openxmlformats.org/spreadsheetml/2006/main",
+        "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+    }
+
+    with zipfile.ZipFile(filepath) as zf:
+        shared_strings = _xlsx_shared_strings(zf)
+
+        workbook = ET.fromstring(zf.read("xl/workbook.xml"))
+        sheets = workbook.find("a:sheets", ns)
+        first_sheet = next(iter(sheets))
+        sheet_id = first_sheet.attrib["{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id"]
+
+        rels = ET.fromstring(zf.read("xl/_rels/workbook.xml.rels"))
+        rid_to_target = {r.attrib["Id"]: r.attrib["Target"] for r in rels}
+        sheet_path = "xl/" + rid_to_target[sheet_id]
+
+        sheet_root = ET.fromstring(zf.read(sheet_path))
+        for row in sheet_root.findall(".//a:sheetData/a:row", ns):
+            values = []
+            for cell in row.findall("a:c", ns):
+                cell_type = cell.attrib.get("t")
+                value_node = cell.find("a:v", ns)
+                value = value_node.text if value_node is not None else ""
+                if cell_type == "s" and value.isdigit():
+                    value = shared_strings[int(value)]
+                values.append(value)
+            yield values
+
+
+def load_producers(filepath):
+    """
+    Φόρτωση clients-info.xlsx.
+
+    Χρησιμοποιεί:
+    - `ΕΔΡΕΘ` ως κωδικό αντιστοίχισης
+    - `NAME(ΕΤΑΙΡΕΙΑ)` ως ονομασία εταιρείας
+    """
+    try:
+        rows = list(_xlsx_first_sheet_rows(filepath))
+        if not rows:
+            raise ValueError("Το Excel είναι κενό")
+
+        header = [str(col).strip() for col in rows[0]]
+        data = pd.DataFrame(rows[1:], columns=header)
+
+        code_col = "ΕΔΡΕΘ" if "ΕΔΡΕΘ" in data.columns else "Code"
+        company_col = "NAME(ΕΤΑΙΡΕΙΑ)" if "NAME(ΕΤΑΙΡΕΙΑ)" in data.columns else "Εταιρεία"
+
+        if code_col not in data.columns or company_col not in data.columns:
+            raise ValueError(
+                "Λείπουν οι στήλες 'ΕΔΡΕΘ' και/ή 'NAME(ΕΤΑΙΡΕΙΑ)' στο clients-info.xlsx"
+            )
+
+        df = data[[code_col, company_col]].copy()
+        df.columns = ["Code", "Εταιρεία"]
         df["Code"] = df["Code"].astype(str).str.strip()
         df["Εταιρεία"] = df["Εταιρεία"].astype(str).str.strip()
+        df = df[(df["Code"] != "") & (df["Code"].str.lower() != "nan")]
 
         log.info("Loaded %d producers", len(df))
         for _, row in df.iterrows():
@@ -230,7 +302,7 @@ def process_file(filepath, producers_df, output_folder):
 def split_files_by_code(month):
     """
     Κύρια ροή:
-    1. Φόρτωση producers.xlsx
+    1. Φόρτωση clients-info.xlsx
     2. Εύρεση τελευταίων GREEN_VE6 CSVs ανά ημέρα
     3. Σπάσιμο ανά κωδικό ΕΔΡΕΘ → per-company output CSVs
     """
@@ -246,7 +318,7 @@ def split_files_by_code(month):
 
     producers_df = load_producers(str(PRODUCERS_PATH))
     if producers_df is None:
-        print("❌ Αποτυχία φόρτωσης producers.xlsx")
+        print("❌ Αποτυχία φόρτωσης clients-info.xlsx")
         return
 
     latest_files = get_latest_green_ve6_files(input_folder)

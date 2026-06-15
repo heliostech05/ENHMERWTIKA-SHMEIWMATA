@@ -11503,3 +11503,41 @@ Name: Εταιρεία, dtype: object: cannot identify image file '/Users/greenv
 2026-04-03 19:40:03 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΚΑΡΤΣΑ_ΙΚΕ_-_ΚΕΣΣΕΡΙ.csv: 2112 rows
 2026-04-03 19:40:03 | MONTHLY.production.filter_monthly_data | INFO | Filtered 2111 rows for month=2026-03
 2026-04-03 19:40:03 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-03-29: prod=91, dam=92, using first 91
+2026-06-05 19:48:54 | MONTHLY.production.load_producers | INFO | Loaded 81 producers
+2026-06-05 19:48:54 | MONTHLY.dam_loader.load_dam_quarterly_endtime | INFO | DAM 15' rows after filters: 2976 for 2026-05
+2026-06-05 19:48:54 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROGARDENS Ι.Κ.Ε.csv: 9116 rows
+2026-06-05 19:48:54 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:48:54 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:49:11 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΓΑΙΩΕΡΓΑ_Κ&Π_ΕΛΛΗΝΙΚΗ_ΕΤΑΙΡΕΙΑ_ΜΟΝ_ΙΚΕ.csv: 12092 rows
+2026-06-05 19:49:11 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:49:11 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:49:44 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_1_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 13536 rows
+2026-06-05 19:49:44 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:49:44 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:49:53 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_2_ΜΟΝΟΠΡΟΣΩΠΗ_ΙΚΕ.csv: 11712 rows
+2026-06-05 19:49:53 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:49:53 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:00 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΚΑΡΤΣΑ_ΙΚΕ_-_ΛΑΚΚΑ.csv: 3452 rows
+2026-06-05 19:50:00 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:00 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:08 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_BIOGAS_ENERGY_Α.Ε.csv: 8736 rows
+2026-06-05 19:50:08 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:08 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:15 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_HYDROTHESS_Ι.Κ.Ε.csv: 9116 rows
+2026-06-05 19:50:15 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:15 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:22 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_SERVICE_GAS_ONE_ΜΟΝ._Α.Ε.csv: 8160 rows
+2026-06-05 19:50:22 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:22 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:30 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΣΗΘΥΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ.csv: 8160 rows
+2026-06-05 19:50:30 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:30 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:38 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΘΕΡΜΟΚΗΠΙΑ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ.csv: 5088 rows
+2026-06-05 19:50:38 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:38 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:45 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΥΔΡΟΠΟΝΙΚΗ_ΘΕΣΣΑΛΟΝΙΚΗΣ_ΙΚΕ.csv: 3452 rows
+2026-06-05 19:50:45 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:45 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92
+2026-06-05 19:50:53 | MONTHLY.production.read_production_data | DEBUG | Read /Users/greenvalue/PROJECTS/ENHMERWTIKA-SHMEIWMATA/ΠΑΡΑΓΩΓΗ/ΠΑΡΑΓΩΓΗ_ΚΑΡΤΣΑ_ΙΚΕ_-_ΚΕΣΣΕΡΙ.csv: 2784 rows
+2026-06-05 19:50:53 | MONTHLY.production.filter_monthly_data | INFO | Filtered 668 rows for month=2026-05
+2026-06-05 19:50:53 | MONTHLY.production._calculate_daily_summary_for_days | WARNING | Length mismatch on 2026-05-25: prod=92, dam=96, using first 92

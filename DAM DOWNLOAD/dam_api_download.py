@@ -23,7 +23,7 @@ def get_date_range():
     Returns two date strings in ISO 8601 format.
     """
     today = datetime.today()
-    start_date = datetime(today.year, 1, 1)  # January 1st of current year
+    start_date = datetime(2025, 1, 1)  # January 1st of current year
     start_date_str = start_date.strftime('%Y-%m-%d')
     end_date_str = today.strftime('%Y-%m-%d')  # Today
     return start_date_str, end_date_str
