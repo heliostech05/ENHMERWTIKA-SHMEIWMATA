@@ -70,7 +70,7 @@ def parse_args() -> argparse.Namespace:
                    help="Client certificate (PEM). Default: ./certificates/client_modesto_cert.pem")
     p.add_argument("--key", default="./certificates/client_modesto_key.pem",
                    help="Client private key (PEM). Default: ./certificates/client_modesto_key.pem")
-    p.add_argument("--verify-ssl", action="store_true", help="Verify server SSL certificate (recommended).")
+    p.add_argument("--verify-ssl", action="store_true", help="Verify server SSL certificate (default behavior).")
     p.add_argument("--insecure", action="store_true", help="Disable SSL verification (NOT recommended).")
 
     # Modesto WSDL & δίκτυο
@@ -388,7 +388,7 @@ def main():
     # SSL verification
     if ns.insecure and ns.verify_ssl:
         logging.warning("--verify-ssl and --insecure both given; proceeding as INSECURE (verify=False).")
-    verify_ssl = False if ns.insecure else bool(ns.verify_ssl)
+    verify_ssl = not ns.insecure
 
     # Prepare date range
     try:

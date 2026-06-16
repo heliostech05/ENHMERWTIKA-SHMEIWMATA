@@ -141,7 +141,9 @@ def load_producers(filepath):
         log.info("Loaded %d producers", len(df))
         for _, row in df.iterrows():
             log.debug("  Code %s → %s", row["Code"], row["Εταιρεία"])
-        return df
+
+        producer_lookup = dict(zip(df["Code"], df["Εταιρεία"]))
+        return df, producer_lookup
 
     except Exception as e:
         log.error("Failed to load producers: %s", e)
@@ -176,8 +178,8 @@ def get_latest_green_ve6_files(folder):
     latest_files = []
     for date in sorted(date_to_file.keys()):
         best_edition, best_file = max(date_to_file[date])
-        log.debug("  %s → edition %d: %s", date, best_edition, best_file)
-        latest_files.append(best_file)
+        log.info("Date %s uses %s (edition %d)", date, best_file, best_edition)
+        latest_files.append((date, best_file))
 
     log.info("Selected %d files (one per date)", len(latest_files))
     return latest_files
@@ -209,13 +211,18 @@ def assign_month_column(df):
     """
     Προσθήκη στήλης Μήνας (YYYY-MM).
 
-    Ειδική περίπτωση: 00:00 της 1ης ημέρας ανήκει στον ΠΡΟΗΓΟΥΜΕΝΟ μήνα
-    (είναι το τελευταίο 15λεπτο εκείνου του μήνα).
+    Ειδική περίπτωση: τα timestamps της 1ης ημέρας μέχρι και 01:00
+    ανήκουν στον ΠΡΟΗΓΟΥΜΕΝΟ μήνα. Το πρώτο timestamp που ανήκει
+    στον νέο μήνα είναι το 01:15 της 1ης ημέρας.
     """
     at_month_start = (
         (df["datetime"].dt.day == 1)
         & (df["datetime"].dt.hour == 0)
-        & (df["datetime"].dt.minute == 0)
+        | (
+            (df["datetime"].dt.day == 1)
+            & (df["datetime"].dt.hour == 1)
+            & (df["datetime"].dt.minute < 15)
+        )
     )
     df["Μήνας"] = df["datetime"].dt.to_period("M").astype(str)
     df.loc[at_month_start, "Μήνας"] = (
@@ -256,7 +263,7 @@ def merge_with_existing_csv(group_df, out_file):
 
 # ===== Per-file processing =====
 
-def process_file(filepath, producers_df, output_folder):
+def process_file(filepath, producer_lookup, output_folder):
     """
     Διαβάζει ένα GREEN_VE6 CSV, σπάει ανά ΚΩΔΙΚΟ ΕΔΡΕΘ,
     και γράφει/συγχωνεύει στο αντίστοιχο ΠΑΡΑΓΩΓΗ_{company}.csv.
@@ -282,13 +289,11 @@ def process_file(filepath, producers_df, output_folder):
 
     for code_value, group in df.groupby("ΚΩΔΙΚΟΣ ΕΔΡΕΘ"):
         code_str = str(code_value).strip()
-        producer_row = producers_df[producers_df["Code"] == code_str]
+        company_name = producer_lookup.get(code_str)
 
-        if producer_row.empty:
+        if not company_name:
             log.warning("Unknown ΚΩΔΙΚΟΣ ΕΔΡΕΘ: %s", code_str)
             continue
-
-        company_name = producer_row["Εταιρεία"].values[0]
         safe_name = sanitize_name(company_name).replace(" ", "_")
         out_file = os.path.join(output_folder, f"ΠΑΡΑΓΩΓΗ_{safe_name}.csv")
 
@@ -316,10 +321,11 @@ def split_files_by_code(month):
 
     os.makedirs(output_folder, exist_ok=True)
 
-    producers_df = load_producers(str(PRODUCERS_PATH))
-    if producers_df is None:
+    loaded = load_producers(str(PRODUCERS_PATH))
+    if loaded is None:
         print("❌ Αποτυχία φόρτωσης clients-info.xlsx")
         return
+    producers_df, producer_lookup = loaded
 
     latest_files = get_latest_green_ve6_files(input_folder)
     if not latest_files:
@@ -332,9 +338,10 @@ def split_files_by_code(month):
     log.info("SPLIT FILES BY CODE — month=%s", month)
     log.info("=" * 60)
 
-    for filename in latest_files:
+    for date, filename in latest_files:
+        print(f"📄 {date} -> {filename}")
         file_path = os.path.join(input_folder, filename)
-        process_file(file_path, producers_df, output_folder)
+        process_file(file_path, producer_lookup, output_folder)
 
     log.info("Completed: %d files processed", len(latest_files))
     print(f"\n✅ Έτοιμο. {len(latest_files)} αρχεία επεξεργάστηκαν → {output_folder}/")
